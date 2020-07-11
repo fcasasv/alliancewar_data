@@ -2,7 +2,7 @@
 	"nodes": {
 
         "b_1": {"pos": "0|0", "number":"b_1", "type": 0 },       
-		"b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
+	"b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
         "b_3": {"pos": "4|2", "number":"b_3", "type": 0 },
 
         
@@ -315,9 +315,9 @@
                 }
 	},
 	"boosts": {
-        "1": ["boost:100", "health:75", "starburst", "electricfluctuations:2"],
-        "2": ["boost:100", "health:75", "confusion:2", "backuprecovery:2"],
-        "3": ["boost:100", "health:75", "boost_buff:Unstoppable:2", "buff_toggle:Unstoppable:2", "spite"],
+        "1": ["boost:100", "health:75", "steadybuildup-fury", "runningonfumes"],
+        "2": ["boost:100", "health:75", "ebbandflow-knockdown", "powerdrain"],
+        "3": ["boost:100", "health:75", "strikeback", "agressionfury"],
         "4": ["boost:100", "health:75", "bruteforce", "allornothing"],
         "5": ["boost:100", "health:75", "enhancedpoison", "poison"],
         "6": ["boost:100", "health:75", "quicknullify:Regen:2", "psychicthorns:2"],
