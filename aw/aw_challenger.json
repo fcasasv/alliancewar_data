@@ -2,7 +2,7 @@
 	"nodes": {
 
         "b_1": {"pos": "0|0", "number":"b_1", "type": 0 },       
-	"b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
+		"b_2": {"pos": "-4|2", "number":"b_2", "type": 0 },
         "b_3": {"pos": "4|2", "number":"b_3", "type": 0 },
 
         
@@ -315,9 +315,9 @@
                 }
 	},
 	"boosts": {
-        "1": ["boost:100", "health:75", "steadybuildup-fury", "runningonfumes"],
-        "2": ["boost:100", "health:75", "ebbandflow-knockdown", "powerdrain"],
-        "3": ["boost:100", "health:75", "strikeback", "agressionfury"],
+        "1": ["boost:100", "health:75", "starburst", "electricfluctuations:2"],
+        "2": ["boost:100", "health:75", "confusion:2", "backuprecovery:2"],
+        "3": ["boost:100", "health:75", "boost_buff:Unstoppable:2", "buff_toggle:Unstoppable:2", "spite"],
         "4": ["boost:100", "health:75", "bruteforce", "allornothing"],
         "5": ["boost:100", "health:75", "enhancedpoison", "poison"],
         "6": ["boost:100", "health:75", "quicknullify:Regen:2", "psychicthorns:2"],
@@ -336,7 +336,7 @@
         "19": ["boost:100", "health:75", "heavyhitter", "spite"],
         "20": ["boost:100", "health:75", "bruteforce", "powerfocus:2", "boostbuff:Unstoppable:2", "bufftogle:Unstoppable:2"],
         "21": ["boost:100", "health:75", "fisticuffs:2", "allornothing"],
-        "22": ["boost:150", "health:200", "enhancedfury", "optimist", "agression:fury"],
+        "22": ["boost:150", "health:200", "enhancedfury", "optimist", "aggressionfury"],
         "23": ["boost:150", "health:200", "enhancedarmorup", "pessimist", "armor:20"],
         "24": ["boost:150", "health:75", "buffduration:2", "redoubled_determination:2"],
         "25": ["boost:150", "health:75", "limitedimunity:2", "boost_buff:Armor Up:2"],
