@@ -1108,5 +1108,25 @@
     "img": "",
     "title": "Window of Opportunity - Stun",
     "text": "The Defender starts the fight Stun Immune. Whenever they would be Stunned the Attacker is instead Stunned for 4 second(s). The Immunity lasts for 12 second(s), then goes on cooldown for 12 second(s) before returning. When the Immunity returns, it Purifies all Stun Debuffs on the Defender."
-  }
+  },
+  "potenciacionmaestra_es": {
+    "img": "health",
+    "title": "Potenciación Maestra",
+    "text": "+{0}% al daño y a la vida"
+  },
+  "vida_es": {
+    "img": "health",
+    "title": "Vida",
+    "text": "+{0}% a la vida"
+  },
+  "agresion_regeneracion_es": {
+    "img": "regen",
+    "title": "Agresión: Regeneración",
+    "text": "Cada 2 segundos en el cronómetro, gana una Pasiva de Regeneración que cura un 0.25% de Vida Máx. cada segundo por carga. Cuando recibe un golpe, se reinicia el cronometro y se elimina una carga pasiva de Regeneración."
+  },
+  "hiperrecuperacion_es": {
+    "img": "regen",
+    "title": "Hiperrecuperación",
+    "text": "Las habilidades curativas y regenerativas recuperan un {0}% más de vida"
+  },
 }
