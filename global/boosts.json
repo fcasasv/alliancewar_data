@@ -1119,7 +1119,7 @@
     "title": "Vida",
     "text": "+{0}% a la vida"
   },
-  "agresion_regeneracion_es": {
+  "agresionregeneracion_es": {
     "img": "regen",
     "title": "Agresión: Regeneración",
     "text": "Cada 2 segundos en el cronómetro, gana una Pasiva de Regeneración que cura un 0.25% de Vida Máx. cada segundo por carga. Cuando recibe un golpe, se reinicia el cronometro y se elimina una carga pasiva de Regeneración."
@@ -1128,5 +1128,95 @@
     "img": "regen",
     "title": "Hiperrecuperación",
     "text": "Las habilidades curativas y regenerativas recuperan un {0}% más de vida"
+  },
+  "espaciopersonal_es": {
+    "img": "sword",
+    "title": "Espacio Personal",
+    "text": "Mientras el Atacante se encuenrta cerca del Defensor, el Defensor obtiene una Mejora de Furia cada 3 segundos, lo que aumenta su ataque en un 10% de forma permanente. Permanecer lejos del Fedensor hace que estos Efectos de Furia disminuyan gradualmente."
+  },
+  "matador_es": {
+    "img": "response",
+    "title": "Matador",
+    "text": "El Atacante gana 1 barra de poder cada vez que el Defensor activa un superataque. Esta es la única forma en la que el Atacante puede ganar Poder en esta lucha."
+  },
+  "golpeamesiteatreves_es": {
+    "img": "",
+    "title": "Golpéame si te atreves",
+    "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un 50% durante 30 segundos."
+  },
+  "defensaestatica_es": {
+    "img": "",
+    "title": "Defensa Estática",
+    "text": "Si el Atacante golpea a un oponente con una Mejora de Robustez activa, hay un 15% de probabilidades para el Atacante de sufrir una Desventaja de Alto Voltaje, que causa un Daño Directo equivalente al 5% del Ataque en 10 segundos."
+  },
+  "manodura_es": {
+    "img": "",
+    "title": "Mano Dura",
+    "text": "El daño de los superataques aumenta con la armadura."
+  },
+  "politicadedevolucion1_es": {
+    "img": "power",
+    "title": "Politica de Devolución - 1",
+    "text": "Siempre que cualquiera de las Mejoras del Defensor se Anula, obtiene un 20% de una barra de Poder."
+  },
+  "acumulacionestablefuria_es": {
+    "img": "",
+    "title": "Acumulación Estable: Furia",
+    "text": "El Defensor tiene un aumento del 100% de la Precisión de Habilidades Defensivas. Cuando el Atacante tiene 3 o más Desventajas, el Defensor obtiene un efecto Pasivo de Furia, lo que aumenta la Fuerza de Ataque en un 150% hasta que el Atacante tenga 0 Desventajas. Siempre que el Atacante Purifica una Desventaja, obtiene un efecto Pasivo de Furia, que aumenta la Fuerza de Ataque en un 100% durante 10 segundos."
+  },
+  "abrojos_es": {
+    "img": "",
+    "title": "Abrojos",
+    "text": "Si te desplazas hacia atrás sufrirás una hemorragia durante 6 segundos"
+  },
+  "egidafuerte1_es": {
+    "img": "",
+    "title": "Égida (Fuerte) 1",
+    "text": "El Defensor comienza con 2 caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
+  },
+  "masdelomismo1_es": {
+    "img": "",
+    "title": "Más de lo Mismo - 1",
+    "text": "Cuando el Defensor es derribado por un Ataque Fuerte o un Superataque, se vuelve Inmune a las Desventajas durante 4 segundos."
+  },
+  "contraataque_es": {
+    "img": "",
+    "title": "Contraataque",
+    "text": "El oponente gana una barra de poder cada vez que recibe un superataque."
+  },
+  "ragnarok_es": {
+    "img": "",
+    "title": "Ragnarok",
+    "text": "Cuando el Defensor resulta Aturdido, obtiene Furia, lo que aumenta el Ataque en un 30% durante 4,50 segungos. Cuando el Atacante resulta Aturdido, obtiene Demolición, lo que reduce la Armadura en un 30% durante 5 segundos."
+  },
+  "transferenciacinetica1_es": {
+    "img": "",
+    "title": "Transferencia Cinética - 1",
+    "text": "Los ataques bloqueados hacen que el Defensor gane un 5% de Poder. Si el ataque Bloqueado inflingió 0 de daño, la cantidad de Poder obtenida se duplica."
+  },
+  "vinculodepoder_es": {
+    "img": "",
+    "title": "Vinculo de Poder",
+    "text": "Las habilidades de drenaje de Poder del Atacante son un 90% menos efectivas."
+  },
+  "desequilibriodemejorasdrenapoderes_es": {
+    "img": "",
+    "title": "Desequilibrio de Mejoras: Drenapoderes",
+    "text": "Siempre que el Defensor obtiene una Mejora, el Atacante recibe una Desventaja de Drenapoderes indefinida, lo que drena un 10% de una Barra de Poder cada 6 segundos. Todos estos Drenapoderes se eliminan cuando el Atacante acierta un Superataque."
+  },
+  "anticuracionespasiva_es": {
+    "img": "",
+    "title": "Anticuraciones - Pasiva",
+    "text": "El Atacante sufre permanentemente un Anticuraciones Pasivo"
+  },
+  "inmunidadcambiantehemorragiayenvenenamiento_es": {
+    "img": "",
+    "title": "Inmunidad Cambiante - Hemorragia y Envenenamiento",
+    "text": "El Defensor comienza la lucha con Inmunidad a la Hemorragia y se alterna cada 10 segundos con Inmunidad al Envenenamiento. Cuando una Inmunidad se activa. Purifica los efectos correspondientes."
+  },
+  "inmunidadcargada_es": {
+    "img": "",
+    "title": "Inmunidad Cargada",
+    "text": "Siempre que este personaje fuese a recibir una desventaja a la que es inmune, genera un 33% de una Barra de Poder."
   }
 }
