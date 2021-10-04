@@ -312,7 +312,7 @@
         "1": ["boost:100", "health:75", "steadybuildup-fury", "caltrops"],
         "2": ["boost:100", "health:75", "aegis_heavy1", "plaguedmind:20"],
         "3": ["boost:100", "health:75", "strikeback", "ragnarok"],
-        "4": ["boost:100", "health:75", "aggressionregeneration", "recovery:50"],
+        "4": ["potenciacionmaestra_es:100", "vida_es:75", "agresion_regeneracion_es", "hiperrecuperacion_es:50"],
         "5": ["boost:100", "health:75", "personalspace", "matador"],
         "6": ["boost:100", "health:75", "armor:66", "heavyhanded","mysticward:65"],
         "7": ["boost:100", "health:75", "kinetictransference:5", "powerbond:90"],
