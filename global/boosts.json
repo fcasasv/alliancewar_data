@@ -17,7 +17,7 @@
   "aggression": {
     "img": "aggression",
     "title": "Aggression",
-    "text": "Every 2 seconds on a timer gain a {0} passive increasing Attack by 50% per stack.  When struck reset the timer and remove the {0} passive stack"
+    "text": "Every 2 seconds on a timer gain a {b0} passive increasing Attack by 50% per stack.  When struck reset the timer and remove the {b0} passive stack"
   },
   "aggressionarmor": {
     "img": "armor",
@@ -57,7 +57,7 @@
   "armor": {
     "img": "armor",
     "title": "Armor",
-    "text": "+{0}% Armor"
+    "text": "+{b0}% Armor"
   },
   "armorbreakimmunity": {
     "img": "",
@@ -72,7 +72,7 @@
   "attack": {
     "img": "attack",
     "title": "Attack",
-    "text": "+{0}% Attack"
+    "text": "+{b0}% Attack"
   },
   "backuprecovery1": {
     "img": "",
@@ -112,7 +112,7 @@
   "bloodinthewater": {
     "img": "",
     "title": "Blood In The Water",
-    "text": "While the Attacker is suffering from a Debuff the Defender gains a Passive Fury granting +{0}% Attack Rating lasting until all Debuffs on the Attacker expire."
+    "text": "While the Attacker is suffering from a Debuff the Defender gains a Passive Fury granting +{b0}% Attack Rating lasting until all Debuffs on the Attacker expire."
   },
   "bloodletting": {
     "img": "bloodletting",
@@ -122,7 +122,7 @@
   "boost": {
     "img": "health",
     "title": "Champion Boost",
-    "text": "+{0}% Attack & Health"
+    "text": "+{b0}% Attack & Health"
   },
   "boostbuff1": {
     "img": "",
@@ -152,12 +152,12 @@
   "buffduration": {
     "img": "clock",
     "title": "Buff Duration",
-    "text": "All Buffs for this champion last {0}% longer."
+    "text": "All Buffs for this champion last {b0}% longer."
   },
   "buffet": {
     "img": "buffet",
     "title": "Buffet",
-    "text": "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {0}% of their Max Health."
+    "text": "Every 7 seconds the next Buff triggered by the attacker is immedieatly removed. Each time the efect triggers they Regenerate {b0}% of their Max Health."
   },
   "buffimbalance-powerdrain": {
     "img": "",
@@ -197,7 +197,7 @@
   "coldturkey1": {
     "img": "",
     "title": "Cold Turkey 1",
-    "text": "Whenever the Attacker purifies a Debuff they receive a burst of Degeneration Damage dealing a {0}% Attack"
+    "text": "Whenever the Attacker purifies a Debuff they receive a burst of Degeneration Damage dealing a {b0}% Attack"
   },
   "coldturkey2": {
     "img": "",
@@ -222,7 +222,7 @@
   "cornered": {
     "img": "cornered",
     "title": "Cornered",
-    "text": "Whenever a damage over time Debuff is applied to the Champion, they gain {0}% mode power for the duration of the Debuff."
+    "text": "Whenever a damage over time Debuff is applied to the Champion, they gain {b0}% mode power for the duration of the Debuff."
   },
   "countertactics": {
     "img": "powertrend",
@@ -237,7 +237,7 @@
   "critrate": {
     "img": "",
     "title": "Critical",
-    "text": "+{0}% Critical Rate"
+    "text": "+{b0}% Critical Rate"
   },
   "crumblingarmor": {
     "img": "",
@@ -272,7 +272,7 @@
   "dismay": {
     "img": "dismay",
     "title": "Dismay",
-    "text": "Whenever the Attacker loses their highest achieved Combo in a fight, they gain a Degeneration Debuff that deals damage every second equal to {0} times the lost Combo."
+    "text": "Whenever the Attacker loses their highest achieved Combo in a fight, they gain a Degeneration Debuff that deals damage every second equal to {b0} times the lost Combo."
   },
   "dulled": {
     "img": "",
@@ -302,7 +302,7 @@
   "empoweredimmunity": {
     "img": "",
     "title": "Empowered Immunity",
-    "text": "Whenever this champion would receive a debuff they are immune to, they generate {0}% of a Bar of Power."
+    "text": "Whenever this champion would receive a debuff they are immune to, they generate {b0}% of a Bar of Power."
   },
   "encroachingstun": {
     "img": "",
@@ -312,7 +312,7 @@
   "energize": {
     "img": "",
     "title": "Energize",
-    "text": "Increase the Defender's Combat Power Rate by {0}%. This is the Power that is gained by landing hits or being struck with the opponent."
+    "text": "Increase the Defender's Combat Power Rate by {b0}%. This is the Power that is gained by landing hits or being struck with the opponent."
   },
   "enhancedabilities": {
     "img": "skills",
@@ -357,7 +357,7 @@
   "enhancedincinerate": {
     "img": "",
     "title": "Enhanced Incinerate",
-    "text": "Incinerate abilities are {0}% more effective."
+    "text": "Incinerate abilities are {b0}% more effective."
   },
   "enhancedpoison": {
     "img": "poison",
@@ -377,12 +377,12 @@
   "enhancedweakening": {
     "img": "powertrend",
     "title": "Enhanced Weakening",
-    "text": "Weakness and Fatigue abbilities are {0}% more effective."
+    "text": "Weakness and Fatigue abbilities are {b0}% more effective."
   },
   "eresistance": {
     "img": "eresistance",
     "title": "Energy-Resistance",
-    "text": "+{0}% Energy-Resistance"
+    "text": "+{b0}% Energy-Resistance"
   },
   "explosivepersonality": {
     "img": "powertrend",
@@ -457,7 +457,7 @@
   "health": {
     "img": "health",
     "title": "Health",
-    "text": "+{0}% Health"
+    "text": "+{b0}% Health"
   },
   "heavyhanded": {
     "img": "heavy",
@@ -482,7 +482,7 @@
   "improvedpower": {
     "img": "power",
     "title": "Improved Power Gain",
-    "text": "Increases all Power this Defender receives from Power Gain Effects by {0}%."
+    "text": "Increases all Power this Defender receives from Power Gain Effects by {b0}%."
   },
   "indomitable": {
     "img": "",
@@ -502,7 +502,7 @@
   "iso": {
     "img": "boost",
     "title": "Iso-Infused",
-    "text": "+{0}% Attack and Health"
+    "text": "+{b0}% Attack and Health"
   },
   "kineticreactor": {
     "img": "power",
@@ -512,7 +512,7 @@
   "kinetictransference": {
     "img": "",
     "title": "Kinetic Transference",
-    "text": "Blocked attacks cause the Defender to gain {0}% Power. If the Blocked attack dealt 0 damage, the amount of Power gained is doubled."
+    "text": "Blocked attacks cause the Defender to gain {b0}% Power. If the Blocked attack dealt 0 damage, the amount of Power gained is doubled."
   },
   "kingofhellskitchen": {
     "img": "powertrend",
@@ -527,17 +527,17 @@
   "limber": {
     "img": "limber",
     "title": "Limber",
-    "text": "Each time this enemy is Stunned, they reduce the duration of Stuns by {0} seconds."
+    "text": "Each time this enemy is Stunned, they reduce the duration of Stuns by {b0} seconds."
   },
   "limber_percent": {
     "img": "limber",
     "title": "Limber",
-    "text": "Each time the Defender receives a Stun Debuff, they reduce the Duration of further Stun Debuffs by {0}%."
+    "text": "Each time the Defender receives a Stun Debuff, they reduce the Duration of further Stun Debuffs by {b0}%."
   },
   "limitedimmunity": {
     "img": "",
     "title": "Limited Immunity",
-    "text": "Defender is Immune to all Debuffs for the first {0} seconds of the fight."
+    "text": "Defender is Immune to all Debuffs for the first {b0} seconds of the fight."
   },
   "linked": {
     "img": "linked",
@@ -597,7 +597,7 @@
   "mysticward": {
     "img": "ward",
     "title": "Mystic Ward",
-    "text": "Enemy Nullify effects have a {0}% chance to fail."
+    "text": "Enemy Nullify effects have a {b0}% chance to fail."
   },
   "mysticwardI": {
     "img": "mysticwardI",
@@ -672,7 +672,7 @@
   "plaguedmind": {
     "img": "anguish",
     "title": "Plagued Mind",
-    "text": "Attacker's Power is drained every {0} seconds."
+    "text": "Attacker's Power is drained every {b0} seconds."
   },
   "poison": {
     "img": "poison",
@@ -697,12 +697,12 @@
   "power": {
     "img": "power",
     "title": "Power Gain",
-    "text": "Increase all Power Gain by {0}%."
+    "text": "Increase all Power Gain by {b0}%."
   },
   "powerbond": {
     "img": "",
     "title": "Power Bond",
-    "text": "Attacker's Power draining abilities are {0}% less effective."
+    "text": "Attacker's Power draining abilities are {b0}% less effective."
   },
   "powerdrain": {
     "img": "anguish",
@@ -767,7 +767,7 @@
   "presistance": {
     "img": "presistance",
     "title" : "Physical Resistance",
-		"text" : "+{0}% Physical Resistance"
+		"text" : "+{b0}% Physical Resistance"
   },
   "rage": {
     "img": "attack",
@@ -797,7 +797,7 @@
   "recovery": {
     "img": "regen",
     "title": "Recovery",
-    "text": "Healing and Regeneration abilities recover {0}% more health."
+    "text": "Healing and Regeneration abilities recover {b0}% more health."
   },
   "redoubleddetermination1": {
     "img": "",
@@ -847,7 +847,7 @@
   "richgetricher": {
     "img": "",
     "title": "Rich Get Richer",
-    "text": "Whichever Champion has more Unique Buffs gains {0}% of a bar of Power every second."
+    "text": "Whichever Champion has more Unique Buffs gains {b0}% of a bar of Power every second."
   },
   "rollingthunder": {
     "img": "rollingthunder",
@@ -862,7 +862,7 @@
   "sadist": {
     "img": "",
     "title": "Sadist",
-    "text": "This Defender gains +{0}% Attack for each Debuff on them."
+    "text": "This Defender gains +{b0}% Attack for each Debuff on them."
   },
   "safeguard": {
     "img": "",
@@ -1037,7 +1037,7 @@
   "tranquility": {
     "img": "",
     "title": "Tranquility",
-    "text": "Every {0} seconds, all Buffs and Debuffs are removed from both Champions and both Champions are reset to 0 Power."
+    "text": "Every {b0} seconds, all Buffs and Debuffs are removed from both Champions and both Champions are reset to 0 Power."
   },
   "transducer": {
     "img": "transducer",
@@ -1112,12 +1112,12 @@
   "potenciacionmaestra_es": {
     "img": "boost",
     "title": "Potenciación Maestra",
-    "text": "+{0}% al daño y a la vida"
+    "text": "+{b0}% al daño y a la vida"
   },
   "vida_es": {
     "img": "health",
     "title": "Vida",
-    "text": "+{0}% a la vida"
+    "text": "+{b0}% a la vida"
   },
   "agresionregeneracion_es": {
     "img": "regen",
@@ -1127,7 +1127,7 @@
   "hiperrecuperacion_es": {
     "img": "healing",
     "title": "Hiperrecuperación",
-    "text": "Las habilidades curativas y regenerativas recuperan un {0}% más de vida"
+    "text": "Las habilidades curativas y regenerativas recuperan un {b0}% más de vida"
   },
   "espaciopersonal_es": {
     "img": "attack",
@@ -1142,7 +1142,7 @@
   "golpeamesiteatreves_es": {
     "img": "fist",
     "title": "Golpéame si te atreves",
-    "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un {0}% durante 30 segundos."
+    "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un {b0}% durante 30 segundos."
   },
   "defensaestatica_es": {
     "img": "lightning",
@@ -1167,12 +1167,12 @@
   "abrojos_es": {
     "img": "slashedtires",
     "title": "Abrojos",
-    "text": "Si te desplazas hacia atrás sufrirás una hemorragia durante {0} segundos"
+    "text": "Si te desplazas hacia atrás sufrirás una hemorragia durante {b0} segundos"
   },
   "egidafuerte1_es": {
     "img": "fist",
     "title": "Égida (Fuerte) 1",
-    "text": "El Defensor comienza con {0} caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
+    "text": "El Defensor comienza con {b0} caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
   },
   "masdelomismo1_es": {
     "img": "immune",
@@ -1222,7 +1222,7 @@
   "masoquismo_es": {
     "img": "regen",
     "title": "Masoquismo",
-    "text": "Cada 7 segundos la próxima Desventaja activada en este Personaje se elimina inmediatamente. Cada vez que se activa este efecto, se Regenera un {0}% de su Vida Máxima."
+    "text": "Cada 7 segundos la próxima Desventaja activada en este Personaje se elimina inmediatamente. Cada vez que se activa este efecto, se Regenera un {b0}% de su Vida Máxima."
   },
   "sadico1_es": {
     "img": "",
@@ -1242,17 +1242,22 @@
   "venenosonosi_es": {
     "img": "poison",
     "title": "¿Vene-no-so? ¡Veneno-sí!",
-    "text": "Tanto los golpes del Atacante como los del Defensor tienen un 20% de probabilidad de aplicar una Desventaja de Envenenamiento, que inflige un Daño Directo equivalente al {0}% de su ataque en 10 segundos y reduce el indice de recuperación en un 30%."
+    "text": "Tanto los golpes del Atacante como los del Defensor tienen un 20% de probabilidad de aplicar una Desventaja de Envenenamiento, que inflige un Daño Directo equivalente al {b0}% de su ataque en 10 segundos y reduce el indice de recuperación en un 30%."
   },
   "concentraciondepoder1_es": {
     "img": "eresistance",
     "title": "Concentración de Poder 1",
-    "text": "El Defensor obtiene un +{0}% de Tasa de Poder de Combate mientras tiene menos de 1 Barra de Poder, pero sufre -80% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
+    "text": "El Defensor obtiene un +{b0}% de Tasa de Poder de Combate mientras tiene menos de 1 Barra de Poder, pero sufre -{d0}% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
+  },
+  "concentraciondepoder2_es": {
+    "img": "eresistance",
+    "title": "Concentración de Poder 2",
+    "text": "El Defensor obtiene un +{b0}% de Tasa de Poder de Combate mientras tiene menos de 2 Barras de Poder, pero sufre -{d0}% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
   },
   "escudoburbuja_es": {
     "img": "softguard",
     "title": "Escudo burbuja",
-    "text": "Cada ataque bloqueado reduce el bloqueo maestro un {0}%. Tras bloquear 10 ataques, el siguiente será imbloqueable."
+    "text": "Cada ataque bloqueado reduce el bloqueo maestro un {b0}%. Tras bloquear 10 ataques, el siguiente será imbloqueable."
   },
   "contragolpefuria_es": {
     "img": "attack",
@@ -1262,13 +1267,9 @@
   "armaduraionizada2_es": {
     "img": "armor",
     "title": "Armadura Ionizada - 2",
-    "text": "Cuando el Defensor termina un Superataque, obtiene una Mejora de Robustez indefinida que otorga un +{0}% de Armadura."
+    "text": "Cuando el Defensor termina un Superataque, obtiene una Mejora de Robustez indefinida que otorga un +{b0}% de Armadura."
   },
-  "concentraciondepoder2_es": {
-    "img": "eresistance",
-    "title": "Concentración de Poder 2",
-    "text": "El Defensor obtiene un +{0}% de Tasa de Poder de Combate mientras tiene menos de 2 Barras de Poder, pero sufre -80% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
-  },
+  
   "terrenohostil_es": {
     "img": "anguish",
     "title": "Terreno Hostil",
@@ -1277,22 +1278,22 @@
   "energizar_es": {
     "img": "eresistance",
     "title": "Energizar",
-    "text": "Aumenta en un {0}% la Tasa de Poder de Combate del Defensor. Este es el Poder obtenido al acertar golpes o recibir golpes del oponente."
+    "text": "Aumenta en un {b0}% la Tasa de Poder de Combate del Defensor. Este es el Poder obtenido al acertar golpes o recibir golpes del oponente."
   },
   "fuerzabruta_es": {
     "img": "death",
     "title": "Fuerza Bruta",
-    "text": "Si el Atacante no ha acertado un golpe en 6 segundos, empieza a recibir Daño Direto y pierde un {0}% de su Vida total en 30 segundos. Acertar un golpe elimina el Daño y reinicia el crónometro. Las Relaciones de Clase afectan a la fuerza de este Daño."
+    "text": "Si el Atacante no ha acertado un golpe en 6 segundos, empieza a recibir Daño Direto y pierde un {b0}% de su Vida total en 30 segundos. Acertar un golpe elimina el Daño y reinicia el crónometro. Las Relaciones de Clase afectan a la fuerza de este Daño."
   },
   "sangreenelagua1_es": {
     "img": "attack",
     "title": "Sangre en el Agua - 1",
-    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
+    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{b0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
   },
   "sangreenelagua2_es": {
     "img": "attack",
     "title": "Sangre en el Agua - 2",
-    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
+    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{b0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
   },
   "resistor_es": {
     "img": "immune",
@@ -1307,22 +1308,22 @@
   "furiamejorada_es": {
     "img": "fist",
     "title": "Furia mejorada",
-    "text": "Aumenta un {0}% la efectividad de furia"
+    "text": "Aumenta un {b0}% la efectividad de furia"
   },
   "armor2_es": {
     "img": "armor",
     "title": "Armor - 2",
-    "text": "+{0}% a la Armadura"
+    "text": "+{b0}% a la Armadura"
   },
   "drenapoderes_es": {
     "img": "anguish",
     "title": "Drenapoderes",
-    "text": "Los superataques del Defensor drenan hasta un {0}% de Poder."
+    "text": "Los superataques del Defensor drenan hasta un {b0}% de Poder."
   },
   "cambiodepeligroincineracionenvenenamiento_es": {
     "img": "poison",
     "title": "Cambio de Peligro - Incineracion, Envenenamiento",
-    "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30$ del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Envenenamiento en su lugar."
+    "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30% del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Envenenamiento en su lugar."
   },
   "aperitivodepoder1_es": {
     "img": "power",
@@ -1332,7 +1333,7 @@
   "durabilidad_es": {
     "img": "armor",
     "title": "Durabilidad",
-    "text": "El daño recibido se reduce hasta un {0}% en función de la vida perdida."
+    "text": "El daño recibido se reduce hasta un {b0}% en función de la vida perdida."
   },
   "recuperacionderefuerzo1_es": {
     "img": "regen",
