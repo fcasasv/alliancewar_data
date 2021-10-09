@@ -1142,7 +1142,7 @@
   "golpeamesiteatreves_es": {
     "img": "fist",
     "title": "Golpéame si te atreves",
-    "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un 50% durante 30 segundos."
+    "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un {0}% durante 30 segundos."
   },
   "defensaestatica_es": {
     "img": "lightning",
@@ -1167,12 +1167,12 @@
   "abrojos_es": {
     "img": "slashedtires",
     "title": "Abrojos",
-    "text": "Si te desplazas hacia atrás sufrirás una hemorragia durante 6 segundos"
+    "text": "Si te desplazas hacia atrás sufrirás una hemorragia durante {0} segundos"
   },
   "egidafuerte1_es": {
     "img": "fist",
     "title": "Égida (Fuerte) 1",
-    "text": "El Defensor comienza con 2 caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
+    "text": "El Defensor comienza con {0} caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
   },
   "masdelomismo1_es": {
     "img": "immune",
@@ -1218,5 +1218,125 @@
     "img": "power",
     "title": "Inmunidad Cargada",
     "text": "Siempre que este personaje fuese a recibir una desventaja a la que es inmune, genera un 33% de una Barra de Poder."
+  },
+  "masoquismo_es": {
+    "img": "regen",
+    "title": "Masoquismo",
+    "text": "Cada 7 segundos la próxima Desventaja activada en este Personaje se elimina inmediatamente. Cada vez que se activa este efecto, se Regenera un {0}% de su Vida Máxima."
+  },
+  "sadico1_es": {
+    "img": "",
+    "title": "Sádico - 1",
+    "text": "Este Defensor gana un +10% de Ataque por cada Desventaja que posea."
+  },
+  "sadico3_es": {
+    "img": "",
+    "title": "Sádico - 3",
+    "text": "Este Defensor gana un +50% de Ataque por cada Desventaja que posea."
+  },
+  "agresionfuria_es": {
+    "img": "attack",
+    "title": "Agresión: Furia",
+    "text": "Cada 2 segundos en el cronómetro, gana una Pasiva de Furia que aumenta el Ataque en un 50% por carga. Cuando recibe un golpe, se reinicia el cronometro y se elimina una carga pasiva de Furia."
+  },
+  "venenosonosi_es": {
+    "img": "poison",
+    "title": "¿Vene-no-so? ¡Veneno-sí!",
+    "text": "Tanto los golpes del Atacante como los del Defensor tienen un 20% de probabilidad de aplicar una Desventaja de Envenenamiento, que inflige un Daño Directo equivalente al {0}% de su ataque en 10 segundos y reduce el indice de recuperación en un 30%."
+  },
+  "concentraciondepoder1_es": {
+    "img": "eresistance",
+    "title": "Concentración de Poder 1",
+    "text": "El Defensor obtiene un +{0}% de Tasa de Poder de Combate mientras tiene menos de 1 Barra de Poder, pero sufre -80% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
+  },
+  "escudoburbuja_es": {
+    "img": "softguard",
+    "title": "Escudo burbuja",
+    "text": "Cada ataque bloqueado reduce el bloqueo maestro un {0}%. Tras bloquear 10 ataques, el siguiente será imbloqueable."
+  },
+  "contragolpefuria_es": {
+    "img": "attack",
+    "title": "Contragolpe - Furia",
+    "text": "El Atacante comienza con 5 Cargas Débiles, 4 Cargas Medias y 2 Cargas Fuertes. Se elimina una Carga siempre que el Atacante acierta un Ataque correspondiente, y todas las Cargas se reinician cuando el Atacante acierta un Superataque. Cuando cualquier Carga llega a 0, el Defensor obtiene un efecto Pasivo de Furia a lo largo del tiempo hasta que las Cargas se reinician."
+  },
+  "armaduraionizada2_es": {
+    "img": "armor",
+    "title": "Armadura Ionizada - 2",
+    "text": "Cuando el Defensor termina un Superataque, obtiene una Mejora de Robustez indefinida que otorga un +{0}% de Armadura."
+  },
+  "concentraciondepoder2_es": {
+    "img": "eresistance",
+    "title": "Concentración de Poder 2",
+    "text": "El Defensor obtiene un +{0}% de Tasa de Poder de Combate mientras tiene menos de 2 Barras de Poder, pero sufre -80% de Tasa de Poder de Combate cuando tiene más de esa cantidad."
+  },
+  "terrenohostil_es": {
+    "img": "anguish",
+    "title": "Terreno Hostil",
+    "text": "Usar el mismo tipo de Superataque dos veces seguidas otorga al Atacante una carga de Explosión Retrasada durante 5 segundos, la cual se puede eliminar al lanzar un Ataque Fuerte. Si la explosión expira, el Atacante recibe un 50% de su Vida como daño directo."
+  },
+  "energizar_es": {
+    "img": "eresistance",
+    "title": "Energizar",
+    "text": "Aumenta en un {0}% la Tasa de Poder de Combate del Defensor. Este es el Poder obtenido al acertar golpes o recibir golpes del oponente."
+  },
+  "fuerzabruta_es": {
+    "img": "death",
+    "title": "Fuerza Bruta",
+    "text": "Si el Atacante no ha acertado un golpe en 6 segundos, empieza a recibir Daño Direto y pierde un {0}% de su Vida total en 30 segundos. Acertar un golpe elimina el Daño y reinicia el crónometro. Las Relaciones de Clase afectan a la fuerza de este Daño."
+  },
+  "sangreenelagua1_es": {
+    "img": "attack",
+    "title": "Sangre en el Agua - 1",
+    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
+  },
+  "sangreenelagua2_es": {
+    "img": "attack",
+    "title": "Sangre en el Agua - 2",
+    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
+  },
+  "resistor_es": {
+    "img": "immune",
+    "title": "Resistor",
+    "text": "Al ser golpeado con un Ataque Físico o Energético, activa la Mejora de Resistencia correspondiente, lo cual aumenta la respectiva Resistencia en un 20%. Cuando una Mejora de Resistencia Energética se activa, se elimina una Mejora de Resistencia Física, y viceversa."
+  },
+  "punyosdeacero_es": {
+    "img": "fist",
+    "title": "Puños de acero",
+    "text": "Impide que los ataques fuertes se puedan interrumpir."
+  },
+  "furiamejorada_es": {
+    "img": "fist",
+    "title": "Furia mejorada",
+    "text": "Aumenta un {0}% la efectividad de furia"
+  },
+  "armor2_es": {
+    "img": "armor",
+    "title": "Armor - 2",
+    "text": "+{0}% a la Armadura"
+  },
+  "drenapoderes_es": {
+    "img": "anguish",
+    "title": "Drenapoderes",
+    "text": "Los superataques del Defensor drenan hasta un {0}% de Poder."
+  },
+  "cambiodepeligroincineracionenvenenamiento_es": {
+    "img": "poison",
+    "title": "Cambio de Peligro - Incineracion, Envenenamiento",
+    "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30$ del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Envenenamiento en su lugar."
+  },
+  "aperitivodepoder1_es": {
+    "img": "power",
+    "title": "Aperitivo de Poder - 1",
+    "text": "Cada 7 segundos la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que se activa este efecto, el Defensor obtiene un 25% de una barra de poder."
+  },
+  "durabilidad_es": {
+    "img": "armor",
+    "title": "Durabilidad",
+    "text": "El daño recibido se reduce hasta un {0}% en función de la vida perdida."
+  },
+  "recuperacionderefuerzo1_es": {
+    "img": "regen",
+    "title": "Recuperación de Refuerzo - 1",
+    "text": "Cuando se lleva al Defensor a un nivel de Vida por debajo del 50%, gana una ráfaga del 20% de Poder. Si una reducción de la Precisión de Habilidades lo impide, el Defensor recupera un 15% de Vida Máxima en su lugar."
   }
 }
