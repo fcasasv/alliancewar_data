@@ -1355,6 +1355,11 @@
     "title": "Superataque preferido: niv.1",
     "text": "Es más probable que este defensor utilice superataques de niv.1."
   },
+  "superataquepreferidoniv2_es": {
+    "img": "powertrend",
+    "title": "Superataque preferido: niv.2",
+    "text": "Es más probable que este defensor utilice superataques de niv.2."
+  },
   "modificacionpem_es": {
     "img": "clock",
     "title": "Modificación PEM",
@@ -1399,5 +1404,166 @@
     "img": "unstopable",
     "title": "Conmutación de Mejora (Imparable) 1",
     "text": "Cada {b0} segundos, el Defensor obtiene una Mejora de Imparable durante {b1} segundos."
+  },
+  "impetu_es": {
+    "img": "regen",
+    "title": "Ímpetu",
+    "text": "Cada 15 segundos tras el inicio de la lucha, el Defensor Regenera un 50% de Vida Base durante 5 segundos. El cronómetro se actualiza cuando el Defensor alacanza intervalos del 25% de Vida faltante."
+  },
+  "vidadura1_es": {
+    "img": "vidadura",
+    "title": "Vida Dura - 1",
+    "text": "Cada vez que el Atacante realiza un Bloqueo Bien Programado con éxito, obtiene un efecto pasivo de Desorientar, que reduce la Precision de Habilidades Defensivas y el Bloqueo Maestro en un 5% durante 15 segundos."
+  },
+  "superrobustez_es": {
+    "img": "armor",
+    "title": "Superrobustez",
+    "text": "Aumenta un 40% la efectividad de robustez"
+  },
+  "espinasdechitin_es": {
+    "img": "armor",
+    "title": "Espinas de Chitin",
+    "text": "Si el Defensor tiene una Ventaja de Robustez, el Atacante es infligido con una Desventaja de Hemorragia que causa un daño del {b0}% del Ataque del Defensor en {b1} segundos cada vez que se hace Contacto."
+  },
+  "rencor_es": {
+    "img": "power",
+    "title": "Rencor",
+    "text": "Este personaje se deja llevar por el rencor cuando el oponente activa ventajas, por lo que obtiene un {b0}% de probabilidades de que sus superataques se vuelvan imbloqueables y consigue 'Poder a raudales', que aumenta el acopio de poder un {b1}% por segundo."
+  },
+  "supercarga_es": {
+    "img": "power",
+    "title": "Supercarga",
+    "text": "Cada 15 segundos el Defensor activa una Mejora de Acopio de Poder, otorgando un 20% de su Poder máximo durante 10 segundos."
+  },
+  "desequilibriodemejorasdebilidad_es": {
+    "img": "debilidad",
+    "title": "Desequilibrio de Mejoras: Debilidad",
+    "text": "Siempre que el Defensor obtiene una Mejora, el Atacante recibe una Desventaja de Debilidad indefinida, lo que reduce la Fuerza de Ataque en un 15%. Todas estas Debilidades se eliminan cuando el Atacante acierta un Superataque."
+  },
+  "oportunista1_es": {
+    "img": "oportunista",
+    "title": "Oportunista - 1",
+    "text": "Este Defensor gana un +10% de Ataque por cada Mejora que posea."
+  },
+  "margendeoportunidadaturdimiento_es": {
+    "img": "limber",
+    "title": "Margen de Oportunidad: Aturdimiento",
+    "text": "El Defensor comienza la lucha con Inmunidad al Aturdimiento. Siempre que vaya a sufrir Aturdimiento, el Atacante resulta Aturdido en su lugar durante 4 segundos. La inmunidad dura 12 segundos, despues entra en enfriamiento durante 12 segundos antes de reactivarse. Cuando se reactiva, Purifica todas las Desventajas de Aturdimiento en el Defensor."
+  },
+  "bajopresion1_es": {
+    "img": "vidadura",
+    "title": "Bajo Presión - 1",
+    "text": "Cuando el Atacante retrocede, obtiene un cronómetro de Desorientar durante 1,20 segundos. Si retrocede de nuevo mientras el cronómetro de Desorientar está activo, sufre una Desventaja de Desorientar que reduce la Precisión de Habilidades Defensivas y el Bloqueo Maestro en un 50% durante 5 segundos. Max:1 carga."
+  },
+  "relacionadistancia_es": {
+    "img": "debilidad",
+    "title": "Relación a Distancia",
+    "text": "Mientras se encuentra cerca del Defensor, el Atacante obtiene una Desventaja de Debilidad cada 3 segundos, lo que reduce su ataque en un 10% de forma permanente. Permanecer lejos del Defensor hace que estos efectos de Debilidad disminuyan gradualmente."
+  },
+  "flexibilidad_es": {
+    "img": "limber",
+    "title": "Flexibilidad",
+    "text": "Cada vez que el Defensor recibe una Desventaja de Aturdimiento, reduce la Duración de estas Desventajas de Aturdimiento en un {b0}%"
+  },
+  "buffet1_es": {
+    "img": "regen",
+    "title": "Buffet - 1",
+    "text": "Cada 7 segundos la próxima mejora activada por el atacante se anula de forma inmediata. Cada vez que se activa este efecto, el Defensor regenera un {b0}% de su vida máxima."
+  },
+  "contragolpepenetraciondebloqueo_es": {
+    "img": "armorbreak",
+    "title": "Contragolpe - Penetración de Bloqueo",
+    "text": "El Atacante comienza con 5 Cargas Débiles, 4 Cargas Medias y 2 Cargas Fuertes. Se elimina una Carga siempre que el Atacante acierta un Ataque correspondiente, y todas las Cargas se reinician cuando el Atacante acierta un Superataque. Cuando cualquier Carga llega a 0, el Defensor obtiene un efecto pasivo de Penetración de Bloqueo del 15% repetidamente a lo largo del tiempo, hasta que las Cargas se reinician."
+  },
+  "lamejordefensa1_es": {
+    "img": "resistance",
+    "title": "La Mejor Defensa - 1",
+    "text": "El defensor obtiene un +{b0}% de Precision de Habilidades de Bloqueo Automático y Eludir. Activar Eludir o Bloqueo Automático otorga al Defensor un {b1}% de una Barra de Poder."
+  },
+  "personalidadexplosiva_es": {
+    "img": "armor",
+    "title": "Personalidad Explosiva",
+    "text": "Cuando el Defensor Bloquea un ataque, activa una Mejora de Robustez, lo que potencia la Armadura en un 25%. Tras alcanzar las 5 cargas de Robustez generadas por Personalidad Explosiva, las cargas de Robustez explotan y eliminan un 25% de la Vida Máxima del Atacante."
+  },
+  "aspectodeevolucion_es": {
+    "img": "attack",
+    "title": "Aspecto de Evolución",
+    "text": "Siempre que el Defensor rellena una barra de Poder, incrementa sus atributos de Ataque, Armadura, Fuerza Crítica, Resistencia Crítica, Penetración de Bloqueo, Tasa de Poder de Combate y Precisión de Habilidades en un 5% durante el resto del combate."
+  },
+  "eldinerollamaaldinero1_es": {
+    "img": "power",
+    "title": "El Dinero Llama al Dinero - 1",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene un 5% de una barra de Poder cada segundo."
+  },
+  "instigadorcinetico_es": {
+    "img": "power",
+    "title": "Instigador cinético",
+    "text": "El oponente genera poder al atacar el bloqueo de su personaje."
+  },
+  "contragolpetasadepoderdecombate_es": {
+    "img": "anguish",
+    "title": "Contragolpe - Tasa de Poder de Combate",
+    "text": "El Atacante comienza con 5 Cargas Débiles, 4 Cargas Medias y 2 Cargas Fuertes. Se elimina una Carga siempre que el Atacante acierta un Ataque correspondiente, y todas las Cargas se reinician cuando el Atacante acierta un Superataque. Cuando cualquier Carga llega a 0, la Tasa de Poder de Combate del Atacante se reduce lo largo del tiempo, hasta que las Cargas se reinician."
+  },
+  "proezadeindestructible2_es": {
+    "img": "hammer",
+    "title": "Proeza de Indestructible 2",
+    "text": "Cuando el Atacante alcanza 2 Barras de Poder, el Defensor obtiene una Mejora de Indestructible que hace que ignore todo el daño durante 5 segundos."
+  },
+  "rabia25_es": {
+    "img": "attack",
+    "title": "Rabia 2.5",
+    "text": "El daño recibido de un único golpe está limitado al 2.50% de Vida Máxima. Cuando se alcanza el límite de daño, gana una Mejora de Furia. Tras alcanzar las 5 Mejoras de Furia activadas por Rabia, los ataques se vuelven Imbloqueables. La modificación de la Precisión de Habilidades no afecta a este Nodo."
+  },
+  "ampliar_es": {
+    "img": "clock",
+    "title": "Ampliar",
+    "text": "Las Mejoras y Desventajas infligidas del Defensor duran un 150% más."
+  },
+  "salvaguarda_es": {
+    "img": "hammer",
+    "title": "Salvaguarda",
+    "text": "Evita que el mismo ataque reste al personaje más de un {b0}% de vida."
+  },
+  "indomable_es": {
+    "img": "regen",
+    "title": "Indomable",
+    "text": "Las habilidades de curación del Defensor no se pueden invertir, cuando esto fuese a producirse, en lugar de eso solo se impide la Curación."
+  },
+  "inmuneaaturdimiento_es": {
+    "img": "limber",
+    "title": "Inmune a aturdimiento",
+    "text": "El Defensor es inmune a los efectos de Aturdimiento."
+  },
+  "golpecertero_es": {
+    "img": "strike",
+    "title": "Golpe Certero",
+    "text": "Los ataques del Defensor ignoran Armadura, Resistencia, Evasión y Bloqueo Automático."
+  },
+  "resistenciafisica_es": {
+    "img": "presistance",
+    "title": "Resistencia física",
+    "text": "{b0}% a la resistencia física."
+  },
+  "poderdepuntos_es": {
+    "img": "power",
+    "title": "Poder de Puntos",
+    "text": "El Atacante no obtiene Poder al acertar o recibir ataques, en lugar de eso recibe un 12% de una Barra de Poder por segundo mientras el Defensor sufre una desventaja dañina."
+  },
+  "acopiodepodermejorado_es": {
+    "img": "power",
+    "title": "Acopio de Poder Mejorado",
+    "text": "Aumenta en un +{b0}% todo el Pode que el Defensor recibe por Efectos de Acopio de Poder."
+  },
+  "perdicion1_es": {
+    "img": "death",
+    "title": "Perdición - 1",
+    "text": "Cuando un Personaje acierte el primer golpe, generará una Maldición sobre el Personaje oponente, la cual inflige un 0,50% de su Vida actual como Daño Directo por segundo. Siempre que un Personaje con la Maldición golpea al otro Personaje, o si la Maldición ha estado en el mismo Personaje durante 10 segundos, esta pasa al otro Personaje."
+  },
+  "agil_es": {
+    "img": "dulled",
+    "title": "Ágil",
+    "text": "Cada vez que el Defensor Eluda Pasivamente un ataque, se coloca una Desventaja de Fatiga en el Atacante, lo que reduce su Fuerza Critica en 1.000 durante 15 segundos."
   }
+  
 }
