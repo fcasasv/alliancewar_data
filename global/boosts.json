@@ -1257,7 +1257,7 @@
   "escudoburbuja_es": {
     "img": "softguard",
     "title": "Escudo burbuja",
-    "text": "Cada ataque bloqueado reduce el bloqueo maestro un {b0}%. Tras bloquear 10 ataques, el siguiente será imbloqueable."
+    "text": "Cada ataque bloqueado reduce el bloqueo maestro un {d0}%. Tras bloquear 10 ataques, el siguiente será imbloqueable."
   },
   "contragolpefuria_es": {
     "img": "attack",
@@ -1306,7 +1306,7 @@
     "text": "Impide que los ataques fuertes se puedan interrumpir."
   },
   "furiamejorada_es": {
-    "img": "fist",
+    "img": "attack",
     "title": "Furia mejorada",
     "text": "Aumenta un {b0}% la efectividad de furia"
   },
@@ -1339,5 +1339,65 @@
     "img": "regen",
     "title": "Recuperación de Refuerzo - 1",
     "text": "Cuando se lleva al Defensor a un nivel de Vida por debajo del 50%, gana una ráfaga del 20% de Poder. Si una reducción de la Precisión de Habilidades lo impide, el Defensor recupera un 15% de Vida Máxima en su lugar."
+  },
+  "maestradelasmezclas_es": {
+    "img": "evade",
+    "title": "Maestra de las Mezclas",
+    "text": "Si el Atacante intenta el mismo Ataque Base dos veces seguidas, el Defensor tiene un 100% de probabilidad de Evadir el segundo Ataque."
+  },
+  "agresioneficiencia_es": {
+    "img": "powertrend",
+    "title": "Agresión: Eficiencia",
+    "text": "Cada 2 segundos, el Defensor obtiene una Eficiencia Pasiva que aumenta el daño de Superataque en un 50% por carga. Siempre que el Defensor recibe un impacto, elimina una carga."
+  },
+  "superataquepreferidoniv1_es": {
+    "img": "powertrend",
+    "title": "Superataque preferido: niv.1",
+    "text": "Es más probable que este defensor utilice superataques de niv.1."
+  },
+  "modificacionpem_es": {
+    "img": "clock",
+    "title": "Modificación PEM",
+    "text": "Siempre que el Atacante gane una Mejora, el Defensor gana una carga de Aumento de Frecuencias. Máximo 10 cargas. Por cada carga, el Defensor inflige un +15% de Daño Energético con cada golpe. Los Superataques del Defensor convierten todas las cargas en Pasivas de Alto Voltaje, cada cual inflige un 25% del Ataque como Daño Energético a lo largo de 10 segundos."
+  },
+  "poderextenuante_es": {
+    "img": "armor",
+    "title": "Poder extenuante",
+    "text": "El Poder obtenido por el Oponente al golpear o recibir impactos de sus oponentes se reduce en un {d0}% por cada Mejora actualmente activa en él. Además, cada vez que una Mejora expira en él por cualquier motivo, pierde un {d1}% de su Poder Máx."
+  },
+  "deteriorodearmadura_es": {
+    "img": "death",
+    "title": "Deterioro de Armadura",
+    "text": "Si el Atacante no ha acertado un golpe en 6 segundos, recibe una Desventaja de Demolición, lo que reduce su Armadura en {d0}. Si una Demolición está activada en el Atacante cuando activa una carga de Robustez, se activa una carga de Demolición adicional. Al acertar un golpe se elimina una carga de Demolición y se restablece el cronómetro."
+  },
+  "fuerzadevoluntad_es": {
+    "img": "immune",
+    "title": "Fuerza de Voluntad",
+    "text": "El Defensor es Inmune a las Desventajas y a los efectos Pasivos que reducen la Precisión de Habilidades."
+  },
+  "aturdimientoinvasor_es": {
+    "img": "stun",
+    "title": "Aturdimiento Invasor",
+    "text": "Cada 20 segundos, el Atacante sufre Aturdimiento durante 3 segundos, a menos que esté realizando un Superataque 1 o un Superataque 2 cuando el cronómetro expire. Durante este Aturdimiento, la Fuerza de Armadura del Atacante se duplica."
+  },
+  "reservadepoder_es": {
+    "img": "power",
+    "title": "Reserva de poder",
+    "text": "Los superataques para ambos personajes cuestan un 50% menos de poder."
+  },
+  "acumulacionestableimbloqueable_es": {
+    "img": "powertrend",
+    "title": "Acumulación Estable: Imbloqueable",
+    "text": "El Defensor tiene un aumento del 100% de la Precisión de Habilidades Defensivas. Cuando el Atacante tiene 3 o más Desventajas, el Defensor se vuelve Imbloqueable hasta que el Atacante tiene 0 Desventajas. Siempre que el Atacante Purifica una Desventaja, se vuelve Imbloqueable durante 7 segundos."
+  },
+  "fisura_es": {
+    "img": "armorbreak",
+    "title": "Fisura",
+    "text": "Cada uno de los ataques del Defensor desgarra y rompe la Armadura del Atacante, lo que inflige una carga del 1% de Demolición."
+  },
+  "conmutaciondemejoraimparable1_es": {
+    "img": "unstopable",
+    "title": "Conmutación de Mejora (Imparable) 1",
+    "text": "Cada {b0} segundos, el Defensor obtiene una Mejora de Imbloqueable durante 2 segundos."
   }
 }
