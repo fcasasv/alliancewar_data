@@ -1398,6 +1398,6 @@
   "conmutaciondemejoraimparable1_es": {
     "img": "unstopable",
     "title": "Conmutación de Mejora (Imparable) 1",
-    "text": "Cada {b0} segundos, el Defensor obtiene una Mejora de Imbloqueable durante 2 segundos."
+    "text": "Cada {b0} segundos, el Defensor obtiene una Mejora de Imparable durante {b1} segundos."
   }
 }

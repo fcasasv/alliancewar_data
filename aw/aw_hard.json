@@ -337,7 +337,7 @@
         "26": ["potenciacionmaestra_es:150", "vida_es:75", "aturdimientoinvasor_es", "reservadepoder_es"],
         "27": ["potenciacionmaestra_es:150", "vida_es:75", "acumulacionestableimbloqueable_es","fisura_es"],
         "28": ["potenciacionmaestra_es:150", "vida_es:75", "agresionfuria_es", "furiamejorada_es:40"],
-        "29": ["potenciacionmaestra_es:150", "vida_es:75", "conmutaciondemejoraimparable1_es", "sadico1_es"],
+        "29": ["potenciacionmaestra_es:150", "vida_es:75", "conmutaciondemejoraimparable1_es:10,2", "sadico1_es"],
         "30": ["boost:150", "health:75", "vigor"],
         "31": ["boost:150", "health:75", "supercharge", "featsofpower"],
         "32": ["boost:150", "health:75", "boostbuff1", "enhancedarmorup"],
