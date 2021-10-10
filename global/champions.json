@@ -209,5 +209,8 @@
 	"spiderman_2099": ["Spider-Man 2099", "sc"],
 	"peniparker": ["Peni Parker", "te"],
 	"kittypryde": ["Kitty Pryde", "mu"],
-	"nimrod": ["Nimrod", "te"]
+	"nimrod": ["Nimrod", "te"],
+	"summoned_symbiote": ["Summoned Symbiote", "ra"],
+	"antivenom": ["Anti-Venom", "sc"],
+	"knull": ["Knull", "co"]
 }
