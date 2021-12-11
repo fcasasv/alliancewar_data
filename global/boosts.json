@@ -1144,10 +1144,15 @@
     "title": "Golpéame si te atreves",
     "text": "Cuando el Defensor es golpeado gana una Carga de Chitin. Con 10 cargas, estas se eliminan y el Defensor gana una Ventaja de Robustez que aumenta la Armadura en un {b0}% durante 30 segundos."
   },
-  "defensaestatica_es": {
+  "defensaestatica1_es": {
     "img": "lightning",
-    "title": "Defensa Estática",
+    "title": "Defensa Estática - 1",
     "text": "Si el Atacante golpea a un oponente con una Mejora de Robustez activa, hay un 15% de probabilidades para el Atacante de sufrir una Desventaja de Alto Voltaje, que causa un Daño Directo equivalente al 5% del Ataque en 10 segundos."
+  },
+  "defensaestatica2_es": {
+    "img": "lightning",
+    "title": "Defensa Estática - 2",
+    "text": "Si el Atacante golpea a un oponente con una Mejora de Robustez activa, hay un 15% de probabilidades para el Atacante de sufrir una Desventaja de Alto Voltaje, que causa un Daño Directo equivalente al 20% del Ataque en 10 segundos."
   },
   "manodura_es": {
     "img": "attack",
@@ -1193,6 +1198,11 @@
     "img": "power",
     "title": "Transferencia Cinética - 1",
     "text": "Los ataques bloqueados hacen que el Defensor gane un 5% de Poder. Si el ataque Bloqueado inflingió 0 de daño, la cantidad de Poder obtenida se duplica."
+  },
+  "transferenciacinetica2_es": {
+    "img": "power",
+    "title": "Transferencia Cinética - 2",
+    "text": "Los ataques bloqueados hacen que el Defensor gane un 7,50% de Poder. Si el ataque Bloqueado inflingió 0 de daño, la cantidad de Poder obtenida se duplica."
   },
   "vinculodepoder_es": {
     "img": "anguish",
@@ -1325,6 +1335,11 @@
     "title": "Cambio de Peligro - Incineracion, Envenenamiento",
     "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30% del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Envenenamiento en su lugar."
   },
+  "cambiodepeligroaltovoltajehemorragia_es": {
+    "img": "poison",
+    "title": "Cambio de Peligro - Alto Voltaje, Hemorragia",
+    "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir una Desventaja de Alto Voltaje en el Atacante, lo que causa un Daño equivalente al 30% del Ataque del Defensor en 7 segundos. Cada 12 segundos esto se intercambia con una probabilidad de infligir Hemorragia en su lugar."
+  },
   "aperitivodepoder1_es": {
     "img": "power",
     "title": "Aperitivo de Poder - 1",
@@ -1395,6 +1410,11 @@
     "title": "Acumulación Estable: Imbloqueable",
     "text": "El Defensor tiene un aumento del 100% de la Precisión de Habilidades Defensivas. Cuando el Atacante tiene 3 o más Desventajas, el Defensor se vuelve Imbloqueable hasta que el Atacante tiene 0 Desventajas. Siempre que el Atacante Purifica una Desventaja, se vuelve Imbloqueable durante 7 segundos."
   },
+  "acumulaciondeeficienciaimbloqueable_es": {
+    "img": "powertrend",
+    "title": "Acumulación de Eficiencia: Imbloqueable",
+    "text": "El Defensor tiene 3 Mejoras o Efectos Pasivos de Eficiencia, todos los Superataques son Pasivamente Imbloqueables hasta que las Eficiencias se eliminan."
+  },
   "fisura_es": {
     "img": "armorbreak",
     "title": "Fisura",
@@ -1415,13 +1435,18 @@
     "title": "Vida Dura - 1",
     "text": "Cada vez que el Atacante realiza un Bloqueo Bien Programado con éxito, obtiene un efecto pasivo de Desorientar, que reduce la Precision de Habilidades Defensivas y el Bloqueo Maestro en un 5% durante 15 segundos."
   },
+  "vidadura2_es": {
+    "img": "vidadura",
+    "title": "Vida Dura - 2",
+    "text": "Cada vez que el Atacante realiza un Bloqueo Bien Programado con éxito, obtiene un efecto pasivo de Desorientar, que reduce la Precision de Habilidades Defensivas y el Bloqueo Maestro en un 10% durante 15 segundos."
+  },
   "superrobustez_es": {
     "img": "armor",
     "title": "Superrobustez",
     "text": "Aumenta un 40% la efectividad de robustez"
   },
   "espinasdechitin_es": {
-    "img": "armor",
+    "img": "slashedtires",
     "title": "Espinas de Chitin",
     "text": "Si el Defensor tiene una Ventaja de Robustez, el Atacante es infligido con una Desventaja de Hemorragia que causa un daño del {b0}% del Ataque del Defensor en {b1} segundos cada vez que se hace Contacto."
   },
@@ -1442,8 +1467,13 @@
   },
   "oportunista1_es": {
     "img": "oportunista",
-    "title": "Oportunista - 1",
+    "title": "Oportunista - 2",
     "text": "Este Defensor gana un +10% de Ataque por cada Mejora que posea."
+  },
+  "oportunista2_es": {
+    "img": "oportunista",
+    "title": "Oportunista - 1",
+    "text": "Este Defensor gana un +25% de Ataque por cada Mejora que posea."
   },
   "margendeoportunidadaturdimiento_es": {
     "img": "limber",
@@ -1505,6 +1535,11 @@
     "title": "Contragolpe - Tasa de Poder de Combate",
     "text": "El Atacante comienza con 5 Cargas Débiles, 4 Cargas Medias y 2 Cargas Fuertes. Se elimina una Carga siempre que el Atacante acierta un Ataque correspondiente, y todas las Cargas se reinician cuando el Atacante acierta un Superataque. Cuando cualquier Carga llega a 0, la Tasa de Poder de Combate del Atacante se reduce lo largo del tiempo, hasta que las Cargas se reinician."
   },
+  "proezadeindestructible1_es": {
+    "img": "hammer",
+    "title": "Proeza de Indestructible 1",
+    "text": "Cuando el Atacante alcanza 1 Barra de Poder, el Defensor obtiene una Mejora de Indestructible que hace que ignore todo el daño durante 5 segundos."
+  },
   "proezadeindestructible2_es": {
     "img": "hammer",
     "title": "Proeza de Indestructible 2",
@@ -1564,6 +1599,51 @@
     "img": "dulled",
     "title": "Ágil",
     "text": "Cada vez que el Defensor Eluda Pasivamente un ataque, se coloca una Desventaja de Fatiga en el Atacante, lo que reduce su Fuerza Critica en 1.000 durante 15 segundos."
+  },
+  "dejavu_eficiencia_es": {
+    "img": "powertrend",
+    "title": "Dejá Vu de Combate - Eficiencia",
+    "text": "Siempre que el Atacante acierta el mismo tipo de Ataque Básico dos veces seguidas, el Defensor obtiene una Mejora de Eficiencia, que aumenta el Daño por Superataque en un 50% durante 10 segundos."
+  },
+  "puncion_eficiencia_es": {
+    "img": "powertrend",
+    "title": "Punción de Eficiencia - 1",
+    "text": "Cada vez que el Defensor obtiene Eficiencia, también obtiene una carga de Impacto pasiva no acumulativa, que otorga un +{b0}% de Penetración de Bloqueo durante 5 segundos."
+  },
+  "peligrobiologico_es": {
+    "img": "death",
+    "title": "Peligro Biológico",
+    "text": "Al recibir un golpe, 20% de probabilidad de infligir Hemorragia, lo cual causa un 100% de Ataque como daño directo durante 7,50 segundos. Al Bloquear un ataque, un 50% de probabilidad de infligir Envenenamiento, lo cual causa un 100% de Ataque como daño directo durante 7,50 segundos."
+  },
+  "cuandoestanportierra1_es": {
+    "img": "attack",
+    "title": "Cuando Están por Tierra - 1",
+    "text": "Cada vez que el Atacante sufre una Desventaja No Dañina, el Defensor obtiene una Mejora de Furia, que le otorga un +{b0}% de Fuerza de Ataque durante 6 segundos. Este efecto de Furia no se acumula."
+  },
+  "flujoyreflujoderribo_es": {
+    "img": "immune",
+    "title": "Flujo y Reflujo: Derribo",
+    "text": "El Defensor tiene Protección, lo que reduce todo el daño recibido en un 60%. Derribar al Defensor elimina la Protección y otorga al Atacante un efecto Pasivo de Furia, lo que aumenta la Fuerza de Ataque en un 40% durante 12 segundos. Cuando la Furia expira, la Protección se reactiva y todas las Desventajas en el Defensor se Purifican."
+  },
+  "especialessuperiores1_es": {
+    "img": "powertrend",
+    "title": "Especiales Superiores - 1",
+    "text": "El Defensor comienza la lucha con un efecto pasivo de Eficiencia indefinido que aumenta el Daño por Superataque en un +{b0}%."
+  },
+  "pasivamenteespecial1_es": {
+    "img": "powertrend",
+    "title": "Pasivamente Especial - 1",
+    "text": "Tras lanzar un Superataque, el Defensor obtiene +1 de Eficiencia Pasiva por cada golpe que haya sido bloqueado. Si el Atacante realiza un Bloqueo Bien Programado, obtiene esa Eficiencia para si en su lugar. Cada Eficiencia aumenta el Daño por Superataque en un +{b0}% y dura hasta el final del siguiente Superataque que establece contacto."
+  },
+  "nerviosdeacero1_es": {
+    "img": "armor",
+    "title": "Nervios de Acero - 1",
+    "text": "Cada 10 segundos, el Defensor obtiene un Efecto Pasivo de Robustez indefinido, que aumenta la Fuerza de Armadura en un 15%. Cargas Máximas: 10. Golpear el Bloqueo del Defensor elimina una Robustez."
+  },
+  "conflictivo1_es": {
+    "img": "power",
+    "title": "Conflictivo - 1",
+    "text": "Cada 7 segundos la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que esto se activa, el Defensor obtiene un 25% de una barra de poder."
   }
   
 }
