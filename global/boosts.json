@@ -1413,7 +1413,7 @@
   "acumulaciondeeficienciaimbloqueable_es": {
     "img": "powertrend",
     "title": "Acumulación de Eficiencia: Imbloqueable",
-    "text": "El Defensor tiene 3 Mejoras o Efectos Pasivos de Eficiencia, todos los Superataques son Pasivamente Imbloqueables hasta que las Eficiencias se eliminan."
+    "text": "Si el Defensor tiene 3 Mejoras o Efectos Pasivos de Eficiencia, todos los Superataques son Pasivamente Imbloqueables hasta que las Eficiencias se eliminan."
   },
   "fisura_es": {
     "img": "armorbreak",
@@ -1588,7 +1588,7 @@
   "acopiodepodermejorado_es": {
     "img": "power",
     "title": "Acopio de Poder Mejorado",
-    "text": "Aumenta en un +{b0}% todo el Pode que el Defensor recibe por Efectos de Acopio de Poder."
+    "text": "Aumenta en un +{b0}% todo el Poder que el Defensor recibe por Efectos de Acopio de Poder."
   },
   "perdicion1_es": {
     "img": "death",
