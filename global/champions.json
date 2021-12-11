@@ -212,5 +212,8 @@
 	"nimrod": ["Nimrod", "te"],
 	"summoned_symbiote": ["Summoned Symbiote", "ra"],
 	"antivenom": ["Anti-Venom", "sc"],
-	"knull": ["Knull", "co"]
+	"knull": ["Knull", "co"],
+	"sersi": ["Sersi", "co"],
+	"ikaris": ["Ikaris", "co"],
+	"kraven": ["Kraven", "ta"]
 }
