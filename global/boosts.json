@@ -1164,6 +1164,11 @@
     "title": "Politica de Devolución - 1",
     "text": "Siempre que cualquiera de las Mejoras del Defensor se Anula, obtiene un 20% de una barra de Poder."
   },
+  "politicadedevolucion2_es": {
+    "img": "power",
+    "title": "Politica de Devolución - 2",
+    "text": "Siempre que cualquiera de las Mejoras del Defensor se Anula, obtiene un 40% de una barra de Poder."
+  },
   "acumulacionestablefuria_es": {
     "img": "attack",
     "title": "Acumulación Estable: Furia",
@@ -1183,6 +1188,11 @@
     "img": "immune",
     "title": "Más de lo Mismo - 1",
     "text": "Cuando el Defensor es derribado por un Ataque Fuerte o un Superataque, se vuelve Inmune a las Desventajas durante 4 segundos."
+  },
+  "masdelomismo2_es": {
+    "img": "immune",
+    "title": "Más de lo Mismo - 2",
+    "text": "Cuando el Defensor es derribado por un Ataque Fuerte o un Superataque, se vuelve Inmune a las Desventajas durante 6 segundos."
   },
   "contraataque_es": {
     "img": "response",
@@ -1239,6 +1249,11 @@
     "title": "Sádico - 1",
     "text": "Este Defensor gana un +10% de Ataque por cada Desventaja que posea."
   },
+  "sadico2_es": {
+    "img": "sadist",
+    "title": "Sádico - 2",
+    "text": "Este Defensor gana un +25% de Ataque por cada Desventaja que posea."
+  },
   "sadico3_es": {
     "img": "sadist",
     "title": "Sádico - 3",
@@ -1279,7 +1294,6 @@
     "title": "Armadura Ionizada - 2",
     "text": "Cuando el Defensor termina un Superataque, obtiene una Mejora de Robustez indefinida que otorga un +{b0}% de Armadura."
   },
-  
   "terrenohostil_es": {
     "img": "anguish",
     "title": "Terreno Hostil",
@@ -1303,6 +1317,11 @@
   "sangreenelagua2_es": {
     "img": "attack",
     "title": "Sangre en el Agua - 2",
+    "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{b0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
+  },
+  "sangreenelagua3_es": {
+    "img": "attack",
+    "title": "Sangre en el Agua - 3",
     "text": "Mientras el Atacante está sufriendo una Desventaja, el Defensor obtiene una Furia Pasiva que otorga un +{b0}% de Fuerza de Ataque y dura hasta que todas las Desventajas en el Atacante expiran."
   },
   "resistor_es": {
@@ -1355,6 +1374,11 @@
     "title": "Recuperación de Refuerzo - 1",
     "text": "Cuando se lleva al Defensor a un nivel de Vida por debajo del 50%, gana una ráfaga del 20% de Poder. Si una reducción de la Precisión de Habilidades lo impide, el Defensor recupera un 15% de Vida Máxima en su lugar."
   },
+  "recuperacionderefuerzo2_es": {
+    "img": "regen",
+    "title": "Recuperación de Refuerzo - 1",
+    "text": "Cuando se lleva al Defensor a un nivel de Vida por debajo del 50%, gana una ráfaga del 25% de Poder. Si una reducción de la Precisión de Habilidades lo impide, el Defensor recupera un 20% de Vida Máxima en su lugar."
+  },
   "maestradelasmezclas_es": {
     "img": "evade",
     "title": "Maestra de las Mezclas",
@@ -1374,6 +1398,11 @@
     "img": "powertrend",
     "title": "Superataque preferido: niv.2",
     "text": "Es más probable que este defensor utilice superataques de niv.2."
+  },
+  "superataquedeniv2mejorado_es": {
+    "img": "powertrend",
+    "title": "Superataque de niv.2 mejorado",
+    "text": "El Superataque 2 inflige un 20% más de daño y el primer golpe cuerpo a cuerpo o golpe de proyectil instantaneo, como el de un rayo o una explosión psiquica, es Imbloqueable. Los proyectiles con tiempo de vuelo como las flechas o piedras, son Imbloqueables."
   },
   "modificacionpem_es": {
     "img": "clock",
@@ -1440,6 +1469,11 @@
     "title": "Vida Dura - 2",
     "text": "Cada vez que el Atacante realiza un Bloqueo Bien Programado con éxito, obtiene un efecto pasivo de Desorientar, que reduce la Precision de Habilidades Defensivas y el Bloqueo Maestro en un 10% durante 15 segundos."
   },
+  "vidadura3_es": {
+    "img": "vidadura",
+    "title": "Vida Dura - 3",
+    "text": "Cada vez que el Atacante realiza un Bloqueo Bien Programado con éxito, obtiene un efecto pasivo de Desorientar, que reduce la Precision de Habilidades Defensivas y el Bloqueo Maestro en un 15% durante 15 segundos."
+  },
   "superrobustez_es": {
     "img": "armor",
     "title": "Superrobustez",
@@ -1454,6 +1488,11 @@
     "img": "power",
     "title": "Rencor",
     "text": "Este personaje se deja llevar por el rencor cuando el oponente activa ventajas, por lo que obtiene un {b0}% de probabilidades de que sus superataques se vuelvan imbloqueables y consigue 'Poder a raudales', que aumenta el acopio de poder un {b1}% por segundo."
+  },
+  "rencorotro_es": {
+    "img": "power",
+    "title": "Rencor",
+    "text": "Mientras los oponentes tienen Mejoras activas, este personaje activa Poder a Raudales a partir de rencor, lo que proporciona un {b0}% de Poder por segundo."
   },
   "supercarga_es": {
     "img": "power",
@@ -1485,6 +1524,11 @@
     "title": "Bajo Presión - 1",
     "text": "Cuando el Atacante retrocede, obtiene un cronómetro de Desorientar durante 1,20 segundos. Si retrocede de nuevo mientras el cronómetro de Desorientar está activo, sufre una Desventaja de Desorientar que reduce la Precisión de Habilidades Defensivas y el Bloqueo Maestro en un 50% durante 5 segundos. Max:1 carga."
   },
+  "bajopresion2_es": {
+    "img": "vidadura",
+    "title": "Bajo Presión - 2",
+    "text": "Cuando el Atacante retrocede, obtiene un cronómetro de Desorientar durante 1,20 segundos. Si retrocede de nuevo mientras el cronómetro de Desorientar está activo, sufre una Desventaja de Desorientar que reduce la Precisión de Habilidades Defensivas y el Bloqueo Maestro en un 50% durante 7 segundos. Max:1 carga."
+  },
   "relacionadistancia_es": {
     "img": "debilidad",
     "title": "Relación a Distancia",
@@ -1500,6 +1544,11 @@
     "title": "Buffet - 1",
     "text": "Cada 7 segundos la próxima mejora activada por el atacante se anula de forma inmediata. Cada vez que se activa este efecto, el Defensor regenera un {b0}% de su vida máxima."
   },
+  "buffet2_es": {
+    "img": "regen",
+    "title": "Buffet - 2",
+    "text": "Cada 7 segundos la próxima mejora activada por el atacante se anula de forma inmediata. Cada vez que se activa este efecto, el Defensor regenera un {b0}% de su vida máxima."
+  },
   "contragolpepenetraciondebloqueo_es": {
     "img": "armorbreak",
     "title": "Contragolpe - Penetración de Bloqueo",
@@ -1508,6 +1557,11 @@
   "lamejordefensa1_es": {
     "img": "resistance",
     "title": "La Mejor Defensa - 1",
+    "text": "El defensor obtiene un +{b0}% de Precision de Habilidades de Bloqueo Automático y Eludir. Activar Eludir o Bloqueo Automático otorga al Defensor un {b1}% de una Barra de Poder."
+  },
+  "lamejordefensa2_es": {
+    "img": "resistance",
+    "title": "La Mejor Defensa - 2",
     "text": "El defensor obtiene un +{b0}% de Precision de Habilidades de Bloqueo Automático y Eludir. Activar Eludir o Bloqueo Automático otorga al Defensor un {b1}% de una Barra de Poder."
   },
   "personalidadexplosiva_es": {
@@ -1524,6 +1578,11 @@
     "img": "power",
     "title": "El Dinero Llama al Dinero - 1",
     "text": "El Personaje que tenga más Mejoras Únicas obtiene un 5% de una barra de Poder cada segundo."
+  },
+  "eldinerollamaaldinero2_es": {
+    "img": "power",
+    "title": "El Dinero Llama al Dinero - 2",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene un 9% de una barra de Poder cada segundo."
   },
   "instigadorcinetico_es": {
     "img": "power",
@@ -1607,7 +1666,7 @@
   },
   "puncion_eficiencia_es": {
     "img": "powertrend",
-    "title": "Punción de Eficiencia - 1",
+    "title": "Punción de Eficiencia",
     "text": "Cada vez que el Defensor obtiene Eficiencia, también obtiene una carga de Impacto pasiva no acumulativa, que otorga un +{b0}% de Penetración de Bloqueo durante 5 segundos."
   },
   "peligrobiologico_es": {
@@ -1625,9 +1684,19 @@
     "title": "Flujo y Reflujo: Derribo",
     "text": "El Defensor tiene Protección, lo que reduce todo el daño recibido en un 60%. Derribar al Defensor elimina la Protección y otorga al Atacante un efecto Pasivo de Furia, lo que aumenta la Fuerza de Ataque en un 40% durante 12 segundos. Cuando la Furia expira, la Protección se reactiva y todas las Desventajas en el Defensor se Purifican."
   },
+  "flujoyreflujointerceptacion_es": {
+    "img": "immune",
+    "title": "Flujo y Reflujo: Interceptación",
+    "text": "El Defensor tiene Protección, lo que reduce todo el daño recibido en un 60%. Interceptar al Defensor elimina la Protección y otorga al Atacante un efecto Pasivo de Furia, lo que aumenta la Fuerza de Ataque en un 40% durante 12 segundos. Cuando la Furia expira, la Protección se reactiva y todas las Desventajas en el Defensor se Purifican."
+  },
   "especialessuperiores1_es": {
     "img": "powertrend",
     "title": "Especiales Superiores - 1",
+    "text": "El Defensor comienza la lucha con un efecto pasivo de Eficiencia indefinido que aumenta el Daño por Superataque en un +{b0}%."
+  },
+  "especialessuperiores2_es": {
+    "img": "powertrend",
+    "title": "Especiales Superiores - 2",
     "text": "El Defensor comienza la lucha con un efecto pasivo de Eficiencia indefinido que aumenta el Daño por Superataque en un +{b0}%."
   },
   "pasivamenteespecial1_es": {
@@ -1635,15 +1704,110 @@
     "title": "Pasivamente Especial - 1",
     "text": "Tras lanzar un Superataque, el Defensor obtiene +1 de Eficiencia Pasiva por cada golpe que haya sido bloqueado. Si el Atacante realiza un Bloqueo Bien Programado, obtiene esa Eficiencia para si en su lugar. Cada Eficiencia aumenta el Daño por Superataque en un +{b0}% y dura hasta el final del siguiente Superataque que establece contacto."
   },
+  "pasivamenteespecial2_es": {
+    "img": "powertrend",
+    "title": "Pasivamente Especial - 2",
+    "text": "Tras lanzar un Superataque, el Defensor obtiene +1 de Eficiencia Pasiva por cada golpe que haya sido bloqueado. Si el Atacante realiza un Bloqueo Bien Programado, obtiene esa Eficiencia para si en su lugar. Cada Eficiencia aumenta el Daño por Superataque en un +{b0}% y dura hasta el final del siguiente Superataque que establece contacto."
+  },
   "nerviosdeacero1_es": {
     "img": "armor",
     "title": "Nervios de Acero - 1",
     "text": "Cada 10 segundos, el Defensor obtiene un Efecto Pasivo de Robustez indefinido, que aumenta la Fuerza de Armadura en un 15%. Cargas Máximas: 10. Golpear el Bloqueo del Defensor elimina una Robustez."
   },
+  "nerviosdeacero2_es": {
+    "img": "armor",
+    "title": "Nervios de Acero - 2",
+    "text": "Cada 8 segundos, el Defensor obtiene un Efecto Pasivo de Robustez indefinido, que aumenta la Fuerza de Armadura en un 15%. Cargas Máximas: 10. Golpear el Bloqueo del Defensor elimina una Robustez."
+  },
   "conflictivo1_es": {
     "img": "power",
     "title": "Conflictivo - 1",
     "text": "Cada 7 segundos la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que esto se activa, el Defensor obtiene un 25% de una barra de poder."
+  },
+  "conflictivo2_es": {
+    "img": "power",
+    "title": "Conflictivo - 2",
+    "text": "Cada 7 segundos la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que esto se activa, el Defensor obtiene un 50% de una barra de poder."
+  },
+  "enreserva_es": {
+    "img": "dulled",
+    "title": "En Reserva",
+    "text": "Mientras se encuentra cerca del Defensor, el Atacante obtiene una Desventaja de Fatiga de 3 segundos, lo que reduce su Fuerza Critica de forma permanente. Permanecer lejos del Defensor hace que estos efectos de Fatiga disminuyan gradualmente."
+  },
+  "sobrecargaarc_es": {
+    "img": "clock",
+    "title": "Sobrecarga ARC 2.0",
+    "text": "Al comienzo de la lucha y después cada 20 segundos, este Defensor activa una Sobrecarga ARC, lo que proporciona una Mejora de Robustez que aumenta la Armadura en un 25% y otorga una Mejora de Regeneración que restablece un 25% de la Vida Máxima. Estas Mejoras duran 6 segundos."
+  },
+  "asaltovigoroso_es": {
+    "img": "powertrend",
+    "title": "Asalto Vigoroso",
+    "text": "Mientras el Defensor tenga una Mejora de Regeneración activa, gana un +65% de Fuerza de Ataque y sus ataques se vuelven imbloqueables."
+  },
+  "luchadepoder_es": {
+    "img": "anguish",
+    "title": "Lucha de Poder",
+    "text": "El Atacante no puede ganar Poder durante la lucha por los medios habituales. Cada vez que el Defensor alcanza una barra de Poder completa, el Atacante recibe una también, y siempre que el Defensor lanza un Superataque, el Atacante pierde una cantidad equivalente de Poder."
+  },
+  "alegriamaliciosa2_es": {
+    "img": "attack",
+    "title": "Alegría Maliciosa - 2",
+    "text": "Cada vez que el Atacante sufre cualquier Desventaja, el Defensor obtiene una Mejora de Furia que le proporciona 240% de Fuerza de Ataque durante 8 segundos. Esta Furia no se acumula."
+  },
+  "paracolmo1_es": {
+    "img": "vidadura",
+    "title": "Para Colmo - 1",
+    "text": "Cada Deventaja en el Atacante reduce su Precisión de Habilidades Defensivas en un -10%."
+  },
+  "proteccionmistica_es": {
+    "img": "ward",
+    "title": "Protección mística",
+    "text": "Los efectos de anulación tienen un 80% de probabilidad de fallar."
+  },
+  "sinataduras_es": {
+    "img": "unstopable",
+    "title": "Sin Ataduras",
+    "text": "Tras activar un Superataque, el Defensor se vuelve Imparable y tiene un 25% de probabilidad de Eludir los ataques recibidos durante 7 segundos."
+  },
+  "defensadefectuosa_es": {
+    "img": "vidadura",
+    "title": "Defensa Defectuosa",
+    "text": "Bloquear ataques tiene un 100% de probabilidad de aplicar una Desventaja de Desorientar en el Atacante, lo que reduce la Precisión de Habilidades Defensivas y el Bloqueo Maestro en un 25% durante 12 segundos. La probabilidad se reduce en un 50% fijo si el Bloqueo estuvo Bien Programado. El Atacante puede retroceder y mantener el bloqueo durante 1,2 segundos para eliminar una de estas Desventajas."
+  },
+  "cortandocables_es": {
+    "img": "lightning",
+    "title": "Cortando Cables",
+    "text": "Siempre que un Atacante Robótico vaya a obtener una Desventaja de Hemorragia, en lugar de eso obtiene una Desventaja de Alto Voltaje, que inflige un Daño Directo equivalente al 50% de la Fuerza de Ataque del Defensor en 5 segundos."
+  },
+  "ascensoalpoder1_es": {
+    "img": "power",
+    "title": "Ascenso al Poder - 1",
+    "text": "Cuando el Defensor es derribado, se inicia un cronómetro de 4 segundos. Mientras está activo cada vez que el Defensor acierta un impacto o golpea el bloqueo, obtiene un 15% de una barra de poder."
+  },
+  "conunojoabierto_es": {
+    "img": "strike",
+    "title": "Con un Ojo Abierto",
+    "text": "Un {b0} del Daño infligido al Defensor mientras está aturdido se vuelve contra el Atacante."
+  },
+  "cargapoderosa1_es": {
+    "img": "oportunista",
+    "title": "Carga Poderosa - 1",
+    "text": "Al realizar un Ataque a la Carrera normal, el Defensor se Purifica de todas las Desventajas y se vuelve inmune a las Desventajas en el futuro, hasta que el ataque se finalice. Al activar la Inmunidad, se quita cualquier Desventaja que queda después de la Purificación."
+  },
+  "adaptabilidad_es": {
+    "img": "presistance",
+    "title": "Adaptabilidad",
+    "text": "Acumula resistencia física y resistencia energética de forma alternativa cada 8 segundos."
+  },
+  "reflejoaturdidor_es": {
+    "img": "limber",
+    "title": "Reflejo Aturdidor",
+    "text": "Al comienzo de la lucha, el Defensor recibe un escudo permanente contra el Aturdimiento, mientras este escudo esté activo, el Defensor no podrá resultar aturdido. Cada vez que se produce un intento de Aturdir, en su lugar, el Atacante sufre Aturdimiento durante 3 segundos. El escudo entrará en enfriamiento durante 8 segundos si el Defensor sufre Envenenamiento o Incineración. Mientras este enfriamiento está activo, el Atacante obtiene +{b0}% de Fuerza de Ataque."
+  },
+  "vulnerableaaturdimiento_es": {
+    "img": "stun",
+    "title": "Vulnerable a aturdimiento",
+    "text": "Mientras el Defensor sufre Aturdimiento, la Fuerza de Ataque del Atacante aumenta en un {d0}% al acertar un ataque."
   }
   
 }
