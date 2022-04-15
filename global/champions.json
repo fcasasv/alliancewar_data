@@ -215,5 +215,13 @@
 	"knull": ["Knull", "co"],
 	"sersi": ["Sersi", "co"],
 	"ikaris": ["Ikaris", "co"],
-	"kraven": ["Kraven", "ta"]
+	"kraven": ["Kraven", "ta"],
+	"toad": ["Toad", "mu"],
+	"sauron": ["Sauron", "mu"],
+	"cap_sam_wilson": ["Captain America (Sam Wilson)", "te"],
+	"misty_knight": ["Misty Knight", "ta"],
+	"captain_britain": ["Captain Britain", "mu"],
+	"omega_sentinel": ["Omega Sentinel", "te"],
+	"black_cat": ["Black Cat", "ta"],
+	"scorpion": ["Scorpion", "sc"]
 }
