@@ -1824,7 +1824,6 @@
     "title": "El Dinero Llama al Dinero (Furia) - 2",
     "text": "El Personaje que tenga más Mejoras Únicas obtiene una Furia Pasiva acumulativa cada 1 segundo, cada una aumenta la Fuerza de Ataque en un 10%."
   },
-  ,
   "eldinerollamaaldineropoder2_es": {
     "img": "power",
     "title": "El Dinero Llama al Dinero (Poder) - 2",
@@ -1875,6 +1874,4 @@
     "title": "Desaparecido en Combate 1",
     "text": "Siempre que una Mejora en el Defensor Expira, si el Atacante acierta un Ataque Fuerte o un Superataque en 5 segundos, el Defensor sufre Flaquear durante 3 segundos; en caso contrario, lo sufre el Atacante. Los Personajes que sufren Flaquear tienen un 100% de probabilidad de que sus ataques Fallen."
   }
-
-  
 }
