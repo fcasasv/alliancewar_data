@@ -1506,12 +1506,12 @@
   },
   "oportunista1_es": {
     "img": "oportunista",
-    "title": "Oportunista - 2",
+    "title": "Oportunista - 1",
     "text": "Este Defensor gana un +10% de Ataque por cada Mejora que posea."
   },
   "oportunista2_es": {
     "img": "oportunista",
-    "title": "Oportunista - 1",
+    "title": "Oportunista - 2",
     "text": "Este Defensor gana un +25% de Ataque por cada Mejora que posea."
   },
   "margendeoportunidadaturdimiento_es": {
@@ -1808,6 +1808,73 @@
     "img": "stun",
     "title": "Vulnerable a aturdimiento",
     "text": "Mientras el Defensor sufre Aturdimiento, la Fuerza de Ataque del Atacante aumenta en un {d0}% al acertar un ataque."
+  },
+  "revigorizadofuria2_es": {
+    "img": "attack",
+    "title": "Revigorizado (Furia) - 2",
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, esi el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Furia que otorga un +100% de Ataque durante 7 segundos."
+  },
+  "revigorizadoimbloqueable2_es": {
+    "img": "attack",
+    "title": "Revigorizado (Imbloqueable) - 2",
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, esi el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Imbloqueable durante 7 segundos."
+  },
+  "eldinerollamaaldinerofuria2_es": {
+    "img": "attack",
+    "title": "El Dinero Llama al Dinero (Furia) - 2",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene una Furia Pasiva acumulativa cada 1 segundo, cada una aumenta la Fuerza de Ataque en un 10%."
+  },
+  ,
+  "eldinerollamaaldineropoder2_es": {
+    "img": "power",
+    "title": "El Dinero Llama al Dinero (Poder) - 2",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene un 9% de una barra de Poder cada segundo."
+  },
+  "proezadelpoder_es": {
+    "img": "sadist",
+    "title": "Proeza del Poder",
+    "text": "Cuando está por encima de 1 Barra de Poder, gana una Mejora de Furia. Cuando está por encima de 2 Barras de Poder, gana una Mejora de Precisión. Cuando llega a 3 Barras de Poder, gana una Mejora de Crueldad."
+  },
+  "masoquismoeneltiempo1_es": {
+    "img": "regen",
+    "title": "Masoquismo en el Tiempo - 1",
+    "text": "Cada 7 segundos, la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que este efecto se activa, obtiene una Mejora de Regeneración que otorga un 5% de su Vida Máxima en 7 segundos."
+  },
+  "buffeteneltiempo1_es": {
+    "img": "regen",
+    "title": "Buffet en el Tiempo - 1",
+    "text": "Cada 7 segundos, la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que este efecto se activa, el Defensor obtiene una Mejora de Regeneración que otorga un 5% de su Vida máxima en 7 segundos."
+  },
+  "proezadevigilancia1_es": {
+    "img": "strike",
+    "title": "Proeza de Vigilancia - 1",
+    "text": "Cuando el Atacante alcanza 1 Barras de Poder, el Defensor obtiene una Mejora de Vigilancia durante 10 segundos."
+  },
+  "proezadevigilancia2_es": {
+    "img": "strike",
+    "title": "Proeza de Vigilancia - 2",
+    "text": "Cuando el Atacante alcanza 2 Barras de Poder, el Defensor obtiene una Mejora de Vigilancia durante 10 segundos."
+  },
+  "novolveratras1_es": {
+    "img": "regen",
+    "title": "No Volver Atrás - 1",
+    "text": "Cuando el Atacante retrocede, obtiene un Cronómetro de Regeneración durante 1,20 segundos. Retroceder de nuevo mientras el Cronómetro de Regeneración está activo otorga al Defensor un Efecto Pasivo de Regeneración que restablece un 5% de su Vida Máxima en 5 segundos. Máx: 1 Carga"
+  },
+  "paradamejoradarobustez_es": {
+    "img": "armor",
+    "title": "Parada Mejorada - Robustez",
+    "text": "Tras una Parada realizada con éxito por el Atacante, el Atacante recibe una Mejora de Robustez que otorga un +1000 de Fuerza de Armadura en 15 segundos. Esto no se acumula."
+  },
+  "eficienciadepoder_es": {
+    "img": "power",
+    "title": "Eficiencia de Poder",
+    "text": "Los Superataques del Defensor cuestan un 50% menos de Poder."
+  },
+  "desaparecidoencombate1_es": {
+    "img": "vidadura",
+    "title": "Desaparecido en Combate 1",
+    "text": "Siempre que una Mejora en el Defensor Expira, si el Atacante acierta un Ataque Fuerte o un Superataque en 5 segundos, el Defensor sufre Flaquear durante 3 segundos; en caso contrario, lo sufre el Atacante. Los Personajes que sufren Flaquear tienen un 100% de probabilidad de que sus ataques Fallen."
   }
+
   
 }
