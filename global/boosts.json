@@ -1354,6 +1354,11 @@
     "title": "Cambio de Peligro - Incineracion, Envenenamiento",
     "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30% del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Envenenamiento en su lugar."
   },
+  "cambiodepeligroincineracionaltovoltaje_es": {
+    "img": "poison",
+    "title": "Cambio de Peligro - Incineracion, Alto Voltaje",
+    "text": "Golpear al Defensor tiene un 40% de probabilidad de infligir al Atacante con una Desventaja de Incineración, con el 30% del ataque del Defensor como daño durante 7 segundos. Cada 12 segundos cambia a probabilidad de infligir Alto Voltaje en su lugar."
+  },
   "cambiodepeligroaltovoltajehemorragia_es": {
     "img": "poison",
     "title": "Cambio de Peligro - Alto Voltaje, Hemorragia",
@@ -1749,6 +1754,11 @@
     "title": "Lucha de Poder",
     "text": "El Atacante no puede ganar Poder durante la lucha por los medios habituales. Cada vez que el Defensor alcanza una barra de Poder completa, el Atacante recibe una también, y siempre que el Defensor lanza un Superataque, el Atacante pierde una cantidad equivalente de Poder."
   },
+  "alegriamaliciosa1_es": {
+    "img": "attack",
+    "title": "Alegría Maliciosa - 1",
+    "text": "Cada vez que el Atacante sufre cualquier Desventaja, el Defensor obtiene una Mejora de Furia que le proporciona 120% de Fuerza de Ataque durante 6 segundos. Esta Furia no se acumula."
+  },
   "alegriamaliciosa2_es": {
     "img": "attack",
     "title": "Alegría Maliciosa - 2",
@@ -1873,5 +1883,46 @@
     "img": "vidadura",
     "title": "Desaparecido en Combate 1",
     "text": "Siempre que una Mejora en el Defensor Expira, si el Atacante acierta un Ataque Fuerte o un Superataque en 5 segundos, el Defensor sufre Flaquear durante 3 segundos; en caso contrario, lo sufre el Atacante. Los Personajes que sufren Flaquear tienen un 100% de probabilidad de que sus ataques Fallen."
+  },
+  "defensaelectrica1_es": {
+    "img": "vidadura",
+    "title": "Defensa electrica 1",
+    "text": "Cada vez que el Defensor es golpeado mientras está bajo los efectos de una mejora de Armadura, provocará Quemapoderes por un 5% de una barra de poder. El Quemapoderes escala con cada mejora de Armadura, así como el Ataque Base del Defensor."
+  },
+  "armaduraespaciada1_es": {
+    "img": "powertrend",
+    "title": "Armadura espaciada 1",
+    "text": "Mientras el Defensor tenga una mejora de Armadura, son inmunes a los efectos de Anular, Destino sellado y Entorpecimiento. Mientras la mejora de armadura está activa, golpear al Defensor Bloqueará las especiales del Atacante durante 2 segundos."
+  },
+  "luchadordeapoyo": {
+    "img": "presistance",
+    "title": "Luchador de apoyo",
+    "text": "Mientras este defensor está acorralado contra la pared, obtiene una Furia Pasiva permanente y Armadura Pasiva cada 3 segundos. Cada Furia aumenta su Ataque de base en un 10%, hasta un 300% y cada Armadura aumenta su Fuerza de Armadura en 100 hasta 1000."
+  },
+  "muertodemiedo2_es": {
+    "img": "fist",
+    "title": "Muerto de Miedo - 2",
+    "text": "Cada 8 segundos, el Atacante sufre Enraizamiento durante 4 segundos. Los Personajes Enraizados no se pueden mover, pero pueden atacar, bloquear y esquivar. Activar un Superataque elimina el Enraizamiento y evita que se aplique. El cronómetro se pausa mientras el Atacante está Enraizado y se reinicia si el Atacante acierta un golpe."
+  },
+  "armadurainclinada1_es": {
+    "img": "response",
+    "title": "Armadura inclinada - 1",
+    "text": "Por cada mejora de Armadura en el defensor, este obtiene un 10% de probabilidad de desviar los ataques."
+  },
+  "armadurainclinada2_es": {
+    "img": "response",
+    "title": "Armadura inclinada - 2",
+    "text": "Por cada mejora de Armadura en el defensor, este obtiene un 15% de probabilidad de desviar los ataques."
+  },
+  "ungolpedemas1_es": {
+    "img": "enrage",
+    "title": "Un Golpe de Más - 1",
+    "text": "Cuando el Defensor obtiene una Barra de Poder, el Atacante sufre una Desventaja de Aguijón Eléctrico durante 4 segundos. El Aguijón Eléctrico se activa y se elimina si el Atacante activa un Superataque, lo que causa un daño directo equivalente al 50% del Ataque del Defensor."
+  },
+  "altovoltajemejorado_es": {
+    "img": "lightning",
+    "title": "Alto voltaje mejorado",
+    "text": "Las habilidades de alto voltaje son un 40% más efectivas."
   }
+
 }
