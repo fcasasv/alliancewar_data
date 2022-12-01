@@ -1132,7 +1132,7 @@
   "espaciopersonal_es": {
     "img": "attack",
     "title": "Espacio Personal",
-    "text": "Mientras el Atacante se encuenrta cerca del Defensor, el Defensor obtiene una Mejora de Furia cada 3 segundos, lo que aumenta su ataque en un 10% de forma permanente. Permanecer lejos del Fedensor hace que estos Efectos de Furia disminuyan gradualmente."
+    "text": "Mientras el Atacante se encuentra cerca del Defensor, el Defensor obtiene una Mejora de Furia cada 3 segundos, lo que aumenta su ataque en un 10% de forma permanente. Permanecer lejos del Defensor hace que estos Efectos de Furia disminuyan gradualmente."
   },
   "matador_es": {
     "img": "response",
@@ -1822,12 +1822,12 @@
   "revigorizadofuria2_es": {
     "img": "attack",
     "title": "Revigorizado (Furia) - 2",
-    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, esi el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Furia que otorga un +100% de Ataque durante 7 segundos."
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, si el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Furia que otorga un +100% de Ataque durante 7 segundos."
   },
   "revigorizadoimbloqueable2_es": {
     "img": "attack",
     "title": "Revigorizado (Imbloqueable) - 2",
-    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, esi el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Imbloqueable durante 7 segundos."
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, si el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Imbloqueable durante 7 segundos."
   },
   "eldinerollamaaldinerofuria2_es": {
     "img": "attack",
@@ -1897,7 +1897,7 @@
   "luchadordeapoyo": {
     "img": "presistance",
     "title": "Luchador de apoyo",
-    "text": "Mientras este defensor está acorralado contra la pared, obtiene una Furia Pasiva permanente y Armadura Pasiva cada 3 segundos. Cada Furia aumenta su Ataque de base en un 10%, hasta un 300% y cada Armadura aumenta su Fuerza de Armadura en 100 hasta 1000."
+    "text": "Mientras este Defensor está acorralado contra la pared, obtiene una Furia Pasiva permanente y Armadura Pasiva cada 3 segundos. Cada Furia aumenta su Ataque de base en un 10%, hasta un 300% y cada Armadura aumenta su Fuerza de Armadura en 100 hasta 1000."
   },
   "muertodemiedo2_es": {
     "img": "fist",
@@ -1907,12 +1907,12 @@
   "armadurainclinada1_es": {
     "img": "response",
     "title": "Armadura inclinada - 1",
-    "text": "Por cada mejora de Armadura en el defensor, este obtiene un 10% de probabilidad de desviar los ataques."
+    "text": "Por cada mejora de Armadura en el Defensor, este obtiene un 10% de probabilidad de desviar los ataques."
   },
   "armadurainclinada2_es": {
     "img": "response",
     "title": "Armadura inclinada - 2",
-    "text": "Por cada mejora de Armadura en el defensor, este obtiene un 15% de probabilidad de desviar los ataques."
+    "text": "Por cada mejora de Armadura en el Defensor, este obtiene un 15% de probabilidad de desviar los ataques."
   },
   "ungolpedemas1_es": {
     "img": "enrage",
@@ -1923,6 +1923,40 @@
     "img": "lightning",
     "title": "Alto voltaje mejorado",
     "text": "Las habilidades de alto voltaje son un 40% más efectivas."
+  },
+  "goteoplacebo_es": {
+    "img": "strike",
+    "title": "Drip Feed - Placebo 2",
+    "text": "El Atacante gana una ventaja de Placebo de 6 segundos de duración cada 10 segundos. Cuando el Defensor es infligido con una Desventaja No Dañina excepto Aturdido, reinicia el Temporizador."
+  },
+  "fragmentacion2_es": {
+    "img": "strike",
+    "title": "Fragmentación 2",
+    "text": "Cada vez que se Anula una ventaja del Atacante recibe una rafaga de daño directo igual al 30% del ataque modificado del defensor. Las desventajas de Demolición Anulan las ventajas de Armadura."
+  },
+  "combatedejavuplacebo_es": {
+    "img": "strike",
+    "title": "Combat Dejá vu - Placebo 2",
+    "text": "Cuando el Atacante acierta el mismo tipo de Ataque Básico dos veces seguidas, adquiere una Ventaja de Placebo con 8 segundos de duración."
+  },
+  "cuentatrasdeanulacion1_es": {
+    "img": "ward",
+    "title": "Cuenta Atrás de Anulación - 1",
+    "text": "Cuando el Defensor Anula 7 Mejoras, obtiene una Mejora de Acopio de Poder, que otorga un 50% del Poder Máximo en 10 segundos."
+  },
+  "espaciopersonalplacebo_es": {
+    "img": "strike",
+    "title": "Espacio Personal Placebo",
+    "text": "Mientras el Atacante se encuentra cerca del Defensor, el Atacante obtiene una ventaja de Placebo de 5 segundos de duración cada 3 segundos, Permanecer lejos del Defensor hace que estos Efectos de Placebo disminuyan gradualmente."
+  },
+  "extracciondepoder_es": {
+    "img": "power",
+    "title": "Extracción de Poder",
+    "text": "Siempre que el Atacante inflige una Desventaja Dañina en el Defensor, el Atacante recibe una Mejora de Acopio de Poder que aumenta la Tasa de Poder de Combate Defensivo en un 10% durante 10 segundos."
+  },
+  "subterfugiosuperataque_es": {
+    "img": "attack",
+    "title": "Subterfugio - Superataque",
+    "text": "Cuando el Atacante lanza un Superataque, obtiene 1 Mejora de Furia por cada Barra de Poder llena que tenga, y cada una otorga un 5% de Fuerza de Ataque durante 10 segundos."
   }
-
 }
