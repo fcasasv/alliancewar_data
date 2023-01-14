@@ -1869,6 +1869,11 @@
     "title": "No Volver Atrás - 1",
     "text": "Cuando el Atacante retrocede, obtiene un Cronómetro de Regeneración durante 1,20 segundos. Retroceder de nuevo mientras el Cronómetro de Regeneración está activo otorga al Defensor un Efecto Pasivo de Regeneración que restablece un 5% de su Vida Máxima en 5 segundos. Máx: 1 Carga"
   },
+  "novolveratras2_es": {
+    "img": "regen",
+    "title": "No Volver Atrás - 2",
+    "text": "Cuando el Atacante retrocede, obtiene un Cronómetro de Regeneración durante 1,20 segundos. Retroceder de nuevo mientras el Cronómetro de Regeneración está activo otorga al Defensor un Efecto Pasivo de Regeneración que restablece un 7,50% de su Vida Máxima en 5 segundos. Máx: 1 Carga"
+  },
   "paradamejoradarobustez_es": {
     "img": "armor",
     "title": "Parada Mejorada - Robustez",
@@ -1904,14 +1909,14 @@
     "title": "Muerto de Miedo - 2",
     "text": "Cada 8 segundos, el Atacante sufre Enraizamiento durante 4 segundos. Los Personajes Enraizados no se pueden mover, pero pueden atacar, bloquear y esquivar. Activar un Superataque elimina el Enraizamiento y evita que se aplique. El cronómetro se pausa mientras el Atacante está Enraizado y se reinicia si el Atacante acierta un golpe."
   },
-  "armadurainclinada1_es": {
+  "armaduradiagonal1_es": {
     "img": "response",
-    "title": "Armadura inclinada - 1",
+    "title": "Armadura Diagonal - 1",
     "text": "Por cada mejora de Armadura en el Defensor, este obtiene un 10% de probabilidad de desviar los ataques."
   },
-  "armadurainclinada2_es": {
+  "armaduradiagonal2_es": {
     "img": "response",
-    "title": "Armadura inclinada - 2",
+    "title": "Armadura Diagonal - 2",
     "text": "Por cada mejora de Armadura en el Defensor, este obtiene un 15% de probabilidad de desviar los ataques."
   },
   "ungolpedemas1_es": {
@@ -1946,7 +1951,7 @@
   },
   "espaciopersonalplacebo_es": {
     "img": "strike",
-    "title": "Espacio Personal Placebo",
+    "title": "Espacio Personal - Placebo",
     "text": "Mientras el Atacante se encuentra cerca del Defensor, el Atacante obtiene una ventaja de Placebo de 5 segundos de duración cada 3 segundos, Permanecer lejos del Defensor hace que estos Efectos de Placebo disminuyan gradualmente."
   },
   "extracciondepoder_es": {
@@ -1958,5 +1963,30 @@
     "img": "attack",
     "title": "Subterfugio - Superataque",
     "text": "Cuando el Atacante lanza un Superataque, obtiene 1 Mejora de Furia por cada Barra de Poder llena que tenga, y cada una otorga un 5% de Fuerza de Ataque durante 10 segundos."
+  },
+  "segundoalientoreflejo2_es": {
+    "img": "response",
+    "title": "Segundo Aliento (Reflejo del Daño) - 2",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene un Efecto Pasivo de Reflejo del Daño durante 6 segundos, que causa de vuelta un 25% del daño infligido por el Atacante."
+  },
+  "jadeo1_es": {
+    "img": "armorbreak",
+    "title": "Jadeo - 1",
+    "text": "Cada vez que el Defensor es derribado, el Defensor sufre una Desventaja de Demolición, que reduce su Fuerza de Armadura en 50 durante 3 segundos."
+  },
+  "segundoalientoimbloqueable2_es": {
+    "img": "powertrend",
+    "title": "Segundo Aliento (Imbloqueable) - 2",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene una Carga de Imbloqueable. Si el Defensor alcanza 4 Cargas de Imbloqueable, obtiene un Efecto Pasivo de Imbloqueable durante 6 segundos."
+  },
+  "avancedepoder1_es": {
+    "img": "eresistance",
+    "title": "Avance de Poder - 1",
+    "text": "Cada vez que el Defensor Purifica o Depura una Desventaja, obtiene una Carga que aumenta de forma permanente su Tasa de Poder de Combate en un 3%. Esto aumenta hasta un máximo de 20 Cargas."
+  },
+  "pronunciarse2_es": {
+    "img": "immune",
+    "title": "Pronunciarse - 2",
+    "text": "El Defensor tiene Protección indefinida, que reduce todo el daño recibido en un 75%. Este efecto entra en enfriamiento durante 15 segundos cuando el defensor es derribado."
   }
 }
