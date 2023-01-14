@@ -1182,7 +1182,7 @@
   "egidafuerte1_es": {
     "img": "fist",
     "title": "Égida (Fuerte) 1",
-    "text": "El Defensor comienza con {b0} caras de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
+    "text": "El Defensor comienza con {b0} cargas de Indestructible. Cada Ataque Fuerte que impacta contra el Defensor elimina 1 carga."
   },
   "masdelomismo1_es": {
     "img": "immune",
