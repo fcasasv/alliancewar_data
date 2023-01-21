@@ -1129,9 +1129,9 @@
     "title": "Hiperrecuperación",
     "text": "Las habilidades curativas y regenerativas recuperan un {b0}% más de vida"
   },
-  "espaciopersonal_es": {
+  "espaciopersonalfuria_es": {
     "img": "attack",
-    "title": "Espacio Personal",
+    "title": "Espacio Personal - Furia",
     "text": "Mientras el Atacante se encuentra cerca del Defensor, el Defensor obtiene una Mejora de Furia cada 3 segundos, lo que aumenta su ataque en un 10% de forma permanente. Permanecer lejos del Defensor hace que estos Efectos de Furia disminuyan gradualmente."
   },
   "matador_es": {
@@ -1368,6 +1368,11 @@
     "img": "power",
     "title": "Aperitivo de Poder - 1",
     "text": "Cada 7 segundos la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que se activa este efecto, el Defensor obtiene un 25% de una barra de poder."
+  },
+  "aperitivodepoder2_es": {
+    "img": "power",
+    "title": "Aperitivo de Poder - 2",
+    "text": "Cada 7 segundos la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que se activa este efecto, el Defensor obtiene un 50% de una barra de poder."
   },
   "durabilidad_es": {
     "img": "armor",
@@ -1769,10 +1774,15 @@
     "title": "Para Colmo - 1",
     "text": "Cada Deventaja en el Atacante reduce su Precisión de Habilidades Defensivas en un -10%."
   },
+  "paracolmo2_es": {
+    "img": "vidadura",
+    "title": "Para Colmo - 2",
+    "text": "Cada Deventaja en el Atacante reduce su Precisión de Habilidades Defensivas en un -15%."
+  },
   "proteccionmistica_es": {
     "img": "ward",
     "title": "Protección mística",
-    "text": "Los efectos de anulación tienen un 80% de probabilidad de fallar."
+    "text": "Los efectos de anulación tienen un {b0}% de probabilidad de fallar."
   },
   "sinataduras_es": {
     "img": "unstopable",
@@ -1834,10 +1844,20 @@
     "title": "El Dinero Llama al Dinero (Furia) - 2",
     "text": "El Personaje que tenga más Mejoras Únicas obtiene una Furia Pasiva acumulativa cada 1 segundo, cada una aumenta la Fuerza de Ataque en un 10%."
   },
+  "eldinerollamaaldinerofuria3_es": {
+    "img": "attack",
+    "title": "El Dinero Llama al Dinero (Furia) - 3",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene una Furia Pasiva acumulativa cada 1 segundo, cada una aumenta la Fuerza de Ataque en un 15%."
+  },
   "eldinerollamaaldineropoder2_es": {
     "img": "power",
     "title": "El Dinero Llama al Dinero (Poder) - 2",
     "text": "El Personaje que tenga más Mejoras Únicas obtiene un 9% de una barra de Poder cada segundo."
+  },
+  "eldinerollamaaldineropoder3_es": {
+    "img": "power",
+    "title": "El Dinero Llama al Dinero (Poder) - 3",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene un 12% de una barra de Poder cada segundo."
   },
   "proezadelpoder_es": {
     "img": "sadist",
@@ -1849,10 +1869,20 @@
     "title": "Masoquismo en el Tiempo - 1",
     "text": "Cada 7 segundos, la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que este efecto se activa, obtiene una Mejora de Regeneración que otorga un 5% de su Vida Máxima en 7 segundos."
   },
+  "masoquismoeneltiempo2_es": {
+    "img": "regen",
+    "title": "Masoquismo en el Tiempo - 2",
+    "text": "Cada 7 segundos, la próxima Desventaja activada en el Defensor se Purifica de forma inmediata. Cada vez que este efecto se activa, obtiene una Mejora de Regeneración que otorga un 10% de su Vida Máxima en 7 segundos."
+  },
   "buffeteneltiempo1_es": {
     "img": "regen",
     "title": "Buffet en el Tiempo - 1",
     "text": "Cada 7 segundos, la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que este efecto se activa, el Defensor obtiene una Mejora de Regeneración que otorga un 5% de su Vida máxima en 7 segundos."
+  },
+  "buffeteneltiempo2_es": {
+    "img": "regen",
+    "title": "Buffet en el Tiempo - 2",
+    "text": "Cada 7 segundos, la siguiente Mejora activada por el Atacante se Anula de forma inmediata. Cada vez que este efecto se activa, el Defensor obtiene una Mejora de Regeneración que otorga un 10% de su Vida máxima en 7 segundos."
   },
   "proezadevigilancia1_es": {
     "img": "strike",
@@ -1884,20 +1914,40 @@
     "title": "Eficiencia de Poder",
     "text": "Los Superataques del Defensor cuestan un 50% menos de Poder."
   },
+  "eficaciadepoder_es": {
+    "img": "power",
+    "title": "Eficacia de Poder",
+    "text": "Los Superataques del Defensor cuestan un 50% menos de Poder."
+  },
   "desaparecidoencombate1_es": {
     "img": "vidadura",
     "title": "Desaparecido en Combate 1",
     "text": "Siempre que una Mejora en el Defensor Expira, si el Atacante acierta un Ataque Fuerte o un Superataque en 5 segundos, el Defensor sufre Flaquear durante 3 segundos; en caso contrario, lo sufre el Atacante. Los Personajes que sufren Flaquear tienen un 100% de probabilidad de que sus ataques Fallen."
+  },
+  "desaparecidoencombate2_es": {
+    "img": "vidadura",
+    "title": "Desaparecido en Combate 2",
+    "text": "Siempre que una Mejora en el Defensor Expira, si el Atacante acierta un Ataque Fuerte o un Superataque en 4 segundos, el Defensor sufre Flaquear durante 4 segundos; en caso contrario, lo sufre el Atacante. Los Personajes que sufren Flaquear tienen un 100% de probabilidad de que sus ataques Fallen."
   },
   "defensaelectrica1_es": {
     "img": "vidadura",
     "title": "Defensa electrica 1",
     "text": "Cada vez que el Defensor es golpeado mientras está bajo los efectos de una mejora de Armadura, provocará Quemapoderes por un 5% de una barra de poder. El Quemapoderes escala con cada mejora de Armadura, así como el Ataque Base del Defensor."
   },
+  "defensaelectrica2_es": {
+    "img": "vidadura",
+    "title": "Defensa electrica 2",
+    "text": "Cada vez que el Defensor es golpeado mientras está bajo los efectos de una mejora de Armadura, provocará Quemapoderes por un 10% de una barra de poder. El Quemapoderes escala con cada mejora de Armadura, así como el Ataque Base del Defensor."
+  },
   "armaduraespaciada1_es": {
     "img": "powertrend",
     "title": "Armadura espaciada 1",
     "text": "Mientras el Defensor tenga una mejora de Armadura, son inmunes a los efectos de Anular, Destino sellado y Entorpecimiento. Mientras la mejora de armadura está activa, golpear al Defensor Bloqueará las especiales del Atacante durante 2 segundos."
+  },
+  "armaduraespaciada2_es": {
+    "img": "powertrend",
+    "title": "Armadura espaciada 2",
+    "text": "Mientras el Defensor tenga una mejora de Armadura, son inmunes a los efectos de Anular, Destino sellado y Entorpecimiento. Mientras la mejora de armadura está activa, golpear al Defensor Bloqueará las especiales del Atacante durante 4 segundos."
   },
   "luchadordeapoyo": {
     "img": "presistance",
@@ -1908,6 +1958,11 @@
     "img": "fist",
     "title": "Muerto de Miedo - 2",
     "text": "Cada 8 segundos, el Atacante sufre Enraizamiento durante 4 segundos. Los Personajes Enraizados no se pueden mover, pero pueden atacar, bloquear y esquivar. Activar un Superataque elimina el Enraizamiento y evita que se aplique. El cronómetro se pausa mientras el Atacante está Enraizado y se reinicia si el Atacante acierta un golpe."
+  },
+  "muertodemiedo3_es": {
+    "img": "fist",
+    "title": "Muerto de Miedo - 3",
+    "text": "Cada 6 segundos, el Atacante sufre Enraizamiento durante 4 segundos. Los Personajes Enraizados no se pueden mover, pero pueden atacar, bloquear y esquivar. Activar un Superataque elimina el Enraizamiento y evita que se aplique. El cronómetro se pausa mientras el Atacante está Enraizado y se reinicia si el Atacante acierta un golpe."
   },
   "armaduradiagonal1_es": {
     "img": "response",
@@ -1924,6 +1979,11 @@
     "title": "Un Golpe de Más - 1",
     "text": "Cuando el Defensor obtiene una Barra de Poder, el Atacante sufre una Desventaja de Aguijón Eléctrico durante 4 segundos. El Aguijón Eléctrico se activa y se elimina si el Atacante activa un Superataque, lo que causa un daño directo equivalente al 50% del Ataque del Defensor."
   },
+  "ungolpedemas2_es": {
+    "img": "enrage",
+    "title": "Un Golpe de Más - 2",
+    "text": "Cuando el Defensor obtiene una Barra de Poder, el Atacante sufre una Desventaja de Aguijón Eléctrico durante 6 segundos. El Aguijón Eléctrico se activa y se elimina si el Atacante activa un Superataque, lo que causa un daño directo equivalente al 50% del Ataque del Defensor."
+  },
   "altovoltajemejorado_es": {
     "img": "lightning",
     "title": "Alto voltaje mejorado",
@@ -1933,6 +1993,11 @@
     "img": "strike",
     "title": "Drip Feed - Placebo 2",
     "text": "El Atacante gana una ventaja de Placebo de 6 segundos de duración cada 10 segundos. Cuando el Defensor es infligido con una Desventaja No Dañina excepto Aturdido, reinicia el Temporizador."
+  },
+  "goteoplacebo3_es": {
+    "img": "strike",
+    "title": "Drip Feed - Placebo 3",
+    "text": "El Atacante gana una ventaja de Placebo de 6 segundos de duración cada 5 segundos. Cuando el Defensor es infligido con una Desventaja No Dañina excepto Aturdido, reinicia el Temporizador."
   },
   "fragmentacion2_es": {
     "img": "strike",
@@ -1944,10 +2009,20 @@
     "title": "Combat Dejá vu - Placebo 2",
     "text": "Cuando el Atacante acierta el mismo tipo de Ataque Básico dos veces seguidas, adquiere una Ventaja de Placebo con 8 segundos de duración."
   },
+  "combatedejavuplacebo3_es": {
+    "img": "strike",
+    "title": "Combat Dejá vu - Placebo 3",
+    "text": "Cuando el Atacante acierta el mismo tipo de Ataque Básico dos veces seguidas, adquiere una Ventaja de Placebo con 5 segundos de duración."
+  },
   "cuentatrasdeanulacion1_es": {
     "img": "ward",
     "title": "Cuenta Atrás de Anulación - 1",
     "text": "Cuando el Defensor Anula 7 Mejoras, obtiene una Mejora de Acopio de Poder, que otorga un 50% del Poder Máximo en 10 segundos."
+  },
+  "cuentatrasdeanulacion2_es": {
+    "img": "ward",
+    "title": "Cuenta Atrás de Anulación - 2",
+    "text": "Cuando el Defensor Anula 7 Mejoras, obtiene una Mejora de Acopio de Poder, que otorga un 75% del Poder Máximo en 10 segundos."
   },
   "espaciopersonalplacebo_es": {
     "img": "strike",
@@ -1964,29 +2039,84 @@
     "title": "Subterfugio - Superataque",
     "text": "Cuando el Atacante lanza un Superataque, obtiene 1 Mejora de Furia por cada Barra de Poder llena que tenga, y cada una otorga un 5% de Fuerza de Ataque durante 10 segundos."
   },
+  "subterfugioderribo_es": {
+    "img": "attack",
+    "title": "Subterfugio - Derribo",
+    "text": "Cada vez que el Defensor es derribado, el Atacante obtiene una Mejora de Furia, que aumenta la Fuerza de Ataque en un 5% durante 10 segundos."
+  },
   "segundoalientoreflejo2_es": {
     "img": "response",
     "title": "Segundo Aliento (Reflejo del Daño) - 2",
     "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene un Efecto Pasivo de Reflejo del Daño durante 6 segundos, que causa de vuelta un 25% del daño infligido por el Atacante."
+  },
+  "segundoalientoreflejo3_es": {
+    "img": "response",
+    "title": "Segundo Aliento (Reflejo del Daño) - 3",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene un Efecto Pasivo de Reflejo del Daño durante 6 segundos, que causa de vuelta un 50% del daño infligido por el Atacante."
   },
   "jadeo1_es": {
     "img": "armorbreak",
     "title": "Jadeo - 1",
     "text": "Cada vez que el Defensor es derribado, el Defensor sufre una Desventaja de Demolición, que reduce su Fuerza de Armadura en 50 durante 3 segundos."
   },
+  "jadeo2_es": {
+    "img": "armorbreak",
+    "title": "Jadeo - 2",
+    "text": "Cada vez que el Defensor es derribado, el Defensor sufre una Desventaja de Demolición, que reduce su Fuerza de Armadura en 50 durante 5 segundos."
+  },
   "segundoalientoimbloqueable2_es": {
     "img": "powertrend",
     "title": "Segundo Aliento (Imbloqueable) - 2",
     "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene una Carga de Imbloqueable. Si el Defensor alcanza 4 Cargas de Imbloqueable, obtiene un Efecto Pasivo de Imbloqueable durante 6 segundos."
+  },
+  "segundoalientoimbloqueable3_es": {
+    "img": "powertrend",
+    "title": "Segundo Aliento (Imbloqueable) - 3",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene una Carga de Imbloqueable. Si el Defensor alcanza 3 Cargas de Imbloqueable, obtiene un Efecto Pasivo de Imbloqueable durante 8 segundos."
   },
   "avancedepoder1_es": {
     "img": "eresistance",
     "title": "Avance de Poder - 1",
     "text": "Cada vez que el Defensor Purifica o Depura una Desventaja, obtiene una Carga que aumenta de forma permanente su Tasa de Poder de Combate en un 3%. Esto aumenta hasta un máximo de 20 Cargas."
   },
+  "avancedepoder2_es": {
+    "img": "eresistance",
+    "title": "Avance de Poder - 2",
+    "text": "Cada vez que el Defensor Purifica o Depura una Desventaja, obtiene una Carga que aumenta de forma permanente su Tasa de Poder de Combate en un 5%. Esto aumenta hasta un máximo de 20 Cargas."
+  },
   "pronunciarse2_es": {
     "img": "immune",
     "title": "Pronunciarse - 2",
     "text": "El Defensor tiene Protección indefinida, que reduce todo el daño recibido en un 75%. Este efecto entra en enfriamiento durante 15 segundos cuando el defensor es derribado."
+  },
+  "armaduraconpinchos_es": {
+    "img": "presistance",
+    "title": "Armadura con Pinchos",
+    "text": "La Resistencia Física de este Personaje aumenta en un 20% durante 5 segundos cuando recibe un Golpe Crítico, gracias a su armadura con pinchos. Además devuelve al oponente un 6% del Ataque como Daño Físico."
+  },
+  "espaciopersonalregeneracion_es": {
+    "img": "regen",
+    "title": "Espacio Personal - Regeneración",
+    "text": "Mientras el Atacante se encuentra cerca del Defensor, el Defensor obtiene una mejora de Regeneración cada 3 segundos, que Regenera un 0,25% de su Vida Máxima cada segundo. Permanecer lejos del Defensor hace que estos Efectos de Regeneración disminuyan gradualmente."
+  },
+  "aprenderagolpes_es": {
+    "img": "stun",
+    "title": "Aprender a Golpes",
+    "text": "Cada ve que el Defensor recibe una Desventaja de Aturdimiento, reduce la Duración de las siguientes Desventajas de Aturdimiento en un 20%, a menos que el Atacante tenga una Mejora activa o un Efecto Pásivo de Eficiencia cuando inflige la Desventaja de Aturdimiento."
+  },
+  "miedoparalizante_es": {
+    "img": "dulled",
+    "title": "Miedo paralizante",
+    "text": "Mientras se encuentra cerca del Defensor, el Defensor obtiene una Desventaja de Fatiga cada 3 segundos, lo que reduce su Fuerza Crítica de forma permanente. Permanecer lejos del Defensor hace que estos Efectos de Fatiga disminuyan gradualmente."
+  },
+  "ajustecritico_es": {
+    "img": "sword",
+    "title": "Ajuste Crítico",
+    "text": "Cuando el Atacante termina un Combo con el mismo ataque con el que terminó el anterior, el ataque será un Golpe Crítico garantizado."
+  },
+  "hemorragiamejorada_es": {
+    "img": "bleed",
+    "title": "Hemorragia Mejorada",
+    "text": "Aumenta un 40% la efectividad de hemorragia."
   }
 }
