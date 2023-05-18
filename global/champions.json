@@ -241,5 +241,13 @@
 	"mantis": ["Mantis", "ta"],
 	"jessica_jones": ["Jessica Jones", "sc"],
 	"baron_zemo": ["Baron Zemo", "ta"],
-	"absorbing_man": ["Absorbing Man", "my"]
+	"absorbing_man": ["Absorbing Man", "my"],
+	"cassielang": ["Cassie Lang", "sc"],
+	"antman_future": ["Antman (Future)", "te"],
+	"vivvision": ["Viv Vision", "te"],
+	"katebishop": ["Kate Bishop", "ta"],
+	"shocker": ["Shocker", "te"],
+	"sandman": ["Sandman", "sc"],
+	"moondragon": ["Moondragon", "ta"],
+	"adamwarlock": ["Adam Warlock", "co"]
 }
