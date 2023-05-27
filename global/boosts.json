@@ -1849,6 +1849,11 @@
     "title": "El Dinero Llama al Dinero (Furia) - 3",
     "text": "El Personaje que tenga más Mejoras Únicas obtiene una Furia Pasiva acumulativa cada 1 segundo, cada una aumenta la Fuerza de Ataque en un 15%."
   },
+  "eldinerollamaaldineropoder1_es": {
+    "img": "power",
+    "title": "El Dinero Llama al Dinero (Poder) - 1",
+    "text": "El Personaje que tenga más Mejoras Únicas obtiene un 5% de una barra de Poder cada segundo."
+  },
   "eldinerollamaaldineropoder2_es": {
     "img": "power",
     "title": "El Dinero Llama al Dinero (Poder) - 2",
@@ -2084,6 +2089,11 @@
     "title": "Avance de Poder - 2",
     "text": "Cada vez que el Defensor Purifica o Depura una Desventaja, obtiene una Carga que aumenta de forma permanente su Tasa de Poder de Combate en un 5%. Esto aumenta hasta un máximo de 20 Cargas."
   },
+  "pronunciarse1_es": {
+    "img": "immune",
+    "title": "Pronunciarse - 1",
+    "text": "El Defensor tiene Protección indefinida, que reduce todo el daño recibido en un 50%. Este efecto entra en enfriamiento durante 15 segundos cuando el defensor es derribado."
+  },
   "pronunciarse2_es": {
     "img": "immune",
     "title": "Pronunciarse - 2",
@@ -2118,5 +2128,15 @@
     "img": "bleed",
     "title": "Hemorragia Mejorada",
     "text": "Aumenta un 40% la efectividad de hemorragia."
+  },
+  "energiadederribo_es": {
+    "img": "resistance",
+    "title": "Energía de Derribo -1",
+    "text": "Cuando el Defensor sufre derribo, su Resistencia Energética aumenta en un 50% durante 15 segundos."
+  },
+  "poderinevitableeficaciadepoder2_es": {
+    "img": "powertrend",
+    "title": "Poder Inevitable (Eficacia de Poder)",
+    "text": "Por cada Mejora que haya obtenido el Defensor, recibe una Carga de Poder. Tras alcanzar 7 cargas, obtiene un Efecto Pasivo de Eficacia de Poder durante 9 segundos. Durante este tiempo, todas las Mejoras en el Defensor no se pueden Anular ni Entorpecer."
   }
 }
