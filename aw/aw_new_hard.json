@@ -1,0 +1,377 @@
+{
+	"nodes": {
+		"b_0": {"pos": "0|-2", "number":"b_0", "type": 0},
+        "b_1": {"pos": "0|0", "number":"b_1", "type": 2},              
+       
+        "b_2": {"pos": "-8|3", "number":"b_2", "type": 3},
+        "1": {"pos": "-10|5", "number":"1", "type": 1},
+        "2": {"pos": "-8|5", "number":"2", "type": 1},
+        "3": {"pos": "-6|5", "number":"3", "type": 1},
+        "b_3": {"pos": "-10|8", "number":"b_3", "type": 0},
+        "b_4": {"pos": "-8|8", "number":"b_4", "type": 0},
+        "b_5": {"pos": "-6|8", "number":"b_5", "type": 0},
+        "10": {"pos": "-10|11", "number":"10", "type": 1},
+        "11": {"pos": "-8|11", "number":"11", "type": 1},
+        "12": {"pos": "-6|11", "number":"12", "type": 1},
+		"b_6": {"pos": "-8|14", "number":"b_6", "type": 2},
+		
+		"b_7": {"pos": "0|3", "number":"b_7", "type": 3},
+		"4": {"pos": "-2|5", "number":"4", "type": 1},
+        "5": {"pos": "0|5", "number":"5", "type": 1},
+        "6": {"pos": "2|5", "number":"6", "type": 1},
+		"b_8": {"pos": "-2|8", "number":"b_8", "type": 0},
+        "b_9": {"pos": "0|8", "number":"b_9", "type": 0},
+        "b_10": {"pos": "2|8", "number":"b_10", "type": 0},
+		"13": {"pos": "-2|11", "number":"13", "type": 1},
+        "14": {"pos": "0|11", "number":"14", "type": 1},
+        "15": {"pos": "2|11", "number":"15", "type": 1},
+		"b_11": {"pos": "0|14", "number":"b_11", "type": 2},
+		
+		"b_12": {"pos": "8|3", "number":"b_12", "type": 3},
+        "7": {"pos": "10|5", "number":"7", "type": 1},
+        "8": {"pos": "8|5", "number":"8", "type": 1},
+        "9": {"pos": "6|5", "number":"9", "type": 1},
+        "b_13": {"pos": "10|8", "number":"b_13", "type": 0},
+        "b_14": {"pos": "8|8", "number":"b_14", "type": 0},
+        "b_15": {"pos": "6|8", "number":"b_15", "type": 0},
+        "16": {"pos": "10|11", "number":"16", "type": 1},
+        "17": {"pos": "8|11", "number":"17", "type": 1},
+        "18": {"pos": "6|11", "number":"18", "type": 1},
+		"b_16": {"pos": "8|14", "number":"b_16", "type": 2},
+		
+		"b_17": {"pos": "0|16", "number":"b_17", "type": 3},
+		"b_18": {"pos": "0|18", "number":"b_18", "type": 2},
+		
+		"b_19": {"pos": "-8|21", "number":"b_19", "type": 3},
+        "19": {"pos": "-10|23", "number":"19", "type": 1},
+        "20": {"pos": "-8|23", "number":"20", "type": 1},
+        "21": {"pos": "-6|23", "number":"21", "type": 1},
+        "b_20": {"pos": "-10|26", "number":"b_20", "type": 0},
+        "b_21": {"pos": "-8|26", "number":"b_21", "type": 0},
+        "b_22": {"pos": "-6|26", "number":"b_22", "type": 0},
+        "28": {"pos": "-10|29", "number":"28", "type": 1},
+        "29": {"pos": "-8|29", "number":"29", "type": 1},
+        "30": {"pos": "-6|29", "number":"30", "type": 1},
+		"b_23": {"pos": "-8|32", "number":"b_23", "type": 2},
+		
+		"b_24": {"pos": "0|21", "number":"b_24", "type": 3},
+		"22": {"pos": "-2|23", "number":"22", "type": 1},
+        "23": {"pos": "0|23", "number":"23", "type": 1},
+        "24": {"pos": "2|23", "number":"24", "type": 1},
+		"b_25": {"pos": "-2|26", "number":"b_25", "type": 0},
+        "b_26": {"pos": "0|26", "number":"b_26", "type": 0},
+        "b_27": {"pos": "2|26", "number":"b_27", "type": 0},
+		"31": {"pos": "-2|29", "number":"31", "type": 1},
+        "32": {"pos": "0|29", "number":"32", "type": 1},
+        "33": {"pos": "2|29", "number":"33", "type": 1},
+		"b_28": {"pos": "0|32", "number":"b_28", "type": 2},
+		
+		"b_29": {"pos": "8|21", "number":"b_29", "type": 3},
+        "25": {"pos": "10|23", "number":"25", "type": 1},
+        "26": {"pos": "8|23", "number":"26", "type": 1},
+        "27": {"pos": "6|23", "number":"27", "type": 1},
+        "b_30": {"pos": "10|26", "number":"b_30", "type": 0},
+        "b_31": {"pos": "8|26", "number":"b_31", "type": 0},
+        "b_32": {"pos": "6|26", "number":"b_32", "type": 0},
+        "34": {"pos": "10|29", "number":"34", "type": 1},
+        "35": {"pos": "8|29", "number":"35", "type": 1},
+        "36": {"pos": "6|29", "number":"36", "type": 1},
+		"b_33": {"pos": "8|32", "number":"b_33", "type": 2},
+		
+		"b_34": {"pos": "4|35", "number":"b_34", "type": 3},
+		"37": {"pos": "0|35", "number":"37", "type": 1},
+		"38": {"pos": "2|37", "number":"38", "type": 1},
+		"39": {"pos": "4|39", "number":"39", "type": 1},
+		"b_35": {"pos": "0|39", "number":"b_35", "type": 0},
+		"b_36": {"pos": "-2|39", "number":"b_36", "type": 2},
+		
+		"b_37": {"pos": "0|41", "number":"b_37", "type": 3},
+		"40": {"pos": "-4|41", "number":"40", "type": 1},
+		"41": {"pos": "-2|43", "number":"41", "type": 1},
+		"42": {"pos": "0|45", "number":"42", "type": 1},
+		"b_38": {"pos": "-4|45", "number":"b_38", "type": 0},
+		"b_39": {"pos": "-6|45", "number":"b_39", "type": 2},
+		
+		"b_40": {"pos": "4|47", "number":"b_40", "type": 3},
+		"43": {"pos": "0|47", "number":"43", "type": 1},
+		"44": {"pos": "2|49", "number":"44", "type": 1},
+		"45": {"pos": "4|51", "number":"45", "type": 1},
+		"b_41": {"pos": "0|51", "number":"b_41", "type": 0},
+		"b_42": {"pos": "-2|51", "number":"b_42", "type": 2},
+		
+		"b_43": {"pos": "0|53", "number":"b_43", "type": 3},
+		"46": {"pos": "-2|55", "number":"46", "type": 1},
+		"47": {"pos": "2|55", "number":"47", "type": 1},
+		"48": {"pos": "-2|57", "number":"48", "type": 1},
+		"49": {"pos": "2|57", "number":"49", "type": 1},
+		"50": {"pos": "0|59", "number":"50", "type": 1}
+				      
+	},
+	"base_paths": {
+		"p_1_1a": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_0","b_1"
+            ] },
+        "p_1_2a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_2","1","b_3","10","b_6"
+                ] } ,
+        "p_1_2b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_2","2","b_4","11","b_6"
+                ] } ,
+        "p_1_2c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_2","3","b_5","12","b_6"
+            ] } ,
+        "p_1_3a": {
+                "highlight": false,
+                "nodes":
+                [
+					"b_7","4","b_8","13","b_11"
+                ] },
+        "p_1_3b": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_7","5","b_9","14","b_11"
+            ] },
+        "p_1_3c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_7","6","b_10","15","b_11"
+            ] },
+        "p_1_4a": {
+                "highlight": false,
+                "nodes":
+                [
+					"b_12","7","b_13","16","b_16"
+                ] },
+        "p_1_4b": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_12","8","b_14","17","b_16"
+            ] },
+        "p_1_4c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_12","9","b_15","18","b_16"
+            ] },
+		"p_2_1a": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_17","b_18"
+            ] },
+		"p_2_2a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_19","19","b_20","28","b_23"
+                ] } ,
+        "p_2_2b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_19","20","b_21","29","b_23"
+                ] } ,
+        "p_2_2c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_19","21","b_22","30","b_23"
+            ] } ,
+		"p_2_3a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_24","22","b_25","31","b_28"
+                ] } ,
+        "p_2_3b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_24","23","b_26","32","b_28"
+                ] } ,
+        "p_2_3c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_24","24","b_27","33","b_28"
+            ] } ,
+		"p_2_4a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_29","25","b_30","34","b_33"
+                ] } ,
+        "p_2_4b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_29","26","b_31","35","b_33"
+                ] } ,
+        "p_2_4c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_29","27","b_32","36","b_33"
+            ] } ,
+		"p_3_1a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_34","37","b_35","b_36"
+                ] } ,
+        "p_3_1b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_34","38","b_35"
+                ] } ,
+        "p_3_1c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_34","39","b_35"
+            ] } ,
+		"p_3_2a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_37","40","b_38","b_39"
+                ] } ,
+        "p_3_2b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_37","41","b_38"
+                ] } ,
+        "p_3_2c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_37","42","b_38"
+            ] } ,
+		"p_3_3a": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_40","43","b_41","b_42"
+                ] } ,
+        "p_3_3b": {
+                "highlight": false,
+                "nodes":
+                [
+                    "b_40","44","b_41"
+                ] } ,
+        "p_3_3c": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_40","45","b_41"
+            ] } ,
+		"p_4_1a": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_43","46","48","50"
+            ] } ,
+		"p_4_1b": {
+            "highlight": false,
+            "nodes":
+            [
+                "b_43","47","49","50"
+            ] } 
+        },
+    "paths": {
+	},
+	"boosts": {
+        "1": ["potenciacionmaestra_es:100", "vida_es:75", "revigorizadofuria2_es", "espaciopersonalregeneracion_es", "indomable_es"],
+        "2": ["potenciacionmaestra_es:100", "vida_es:75", "goteoplacebo3_es", "aprenderagolpes_es", "fragmentacion2_es"],
+        "3": ["potenciacionmaestra_es:100", "vida_es:75", "defensaelectrica2_es", "armaduraespaciada2_es", "luchadordeapoyo"],
+        "4": ["potenciacionmaestra_es:100", "vida_es:75", "acumulacionestablefuria_es", "enreserva_es", "cuandoestanportierra1_es:120"],
+        "5": ["potenciacionmaestra_es:100", "vida_es:75", "flujoyreflujoderribo_es", "masdelomismo2_es", "fuerzadevoluntad_es"],
+        "6": ["potenciacionmaestra_es:100", "vida_es:75", "dejavu_eficiencia_es", "armaduraconpinchos_es"],
+        "7": ["potenciacionmaestra_es:100", "vida_es:75", "segundoalientoreflejo2_es", "miedoparalizante_es"],
+        "8": ["potenciacionmaestra_es:100", "vida_es:75", "eldinerollamaaldinerofuria3_es", "proezadelpoder_es", "proteccionmistica_es:95"],
+        "9": ["potenciacionmaestra_es:100", "vida_es:75", "cambiodepeligroincineracionenvenenamiento_es", "sangreenelagua2_es:150"],
+        "10": ["potenciacionmaestra_es:100", "vida_es:75", "revigorizadofuria2_es", "masoquismoeneltiempo2_es", "indomable_es"],
+        "11": ["potenciacionmaestra_es:100", "vida_es:75", "combatedejavuplacebo3_es", "cuentatrasdeanulacion2_es"],
+        "12": ["potenciacionmaestra_es:100", "vida_es:75", "defensaelectrica2_es","armaduraespaciada2_es","manodura_es"],
+        "13": ["potenciacionmaestra_es:100", "vida_es:75", "acumulacionestablefuria_es", "relacionadistancia_es", "paracolmo1_es"],
+        "14": ["potenciacionmaestra_es:100", "vida_es:75", "flujoyreflujoderribo_es", "punyosdeacero_es"],
+        "15": ["potenciacionmaestra_es:100", "vida_es:75", "agresioneficiencia_es", "ajustecritico_es"],
+        "16": ["potenciacionmaestra_es:100", "vida_es:75", "segundoalientoreflejo3_es", "jadeo2_es"],
+        "17": ["potenciacionmaestra_es:100", "vida_es:75", "eldinerollamaaldinerofuria3_es", "espaciopersonalfuria_es", "proteccionmistica_es:95"],
+        "18": ["potenciacionmaestra_es:100", "vida_es:75", "cambiodepeligroincineracionenvenenamiento_es", "paracolmo1_es", "proezadeindestructible1_es", "concentraciondepoder1_es:60:80"],
+        "19": ["potenciacionmaestra_es:150", "vida_es:75", "revigorizadoimbloqueable2_es", "novolveratras2_es", "indomable_es"],
+        "20": ["potenciacionmaestra_es:150", "vida_es:75", "espaciopersonalplacebo_es", "subterfugioderribo_es"],
+        "21": ["potenciacionmaestra_es:150", "vida_es:75", "armaduradiagonal2_es", "espinasdechitin_es:50,5", "hemorragiamejorada_es"],
+        "22": ["potenciacionmaestra_es:150", "vida_es:75", "acumulacionestableimbloqueable_es","agil_es"],
+        "23": ["potenciacionmaestra_es:150", "vida_es:75", "flujoyreflujointerceptacion_es", "sadico2_es"],
+        "24": ["potenciacionmaestra_es:150", "vida_es:75", "acumulaciondeeficienciaimbloqueable_es", "especialessuperiores2_es:100", "politicadedevolucion2_es"],
+        "25": ["potenciacionmaestra_es:150", "vida_es:75", "segundoalientoimbloqueable3_es", "avancedepoder2_es"],
+        "26": ["potenciacionmaestra_es:150", "vida_es:75", "eldinerollamaaldineropoder3_es", "paradamejoradarobustez_es", "proteccionmistica_es:95"],
+        "27": ["potenciacionmaestra_es:150", "vida_es:75", "cambiodepeligroaltovoltajehemorragia_es", "conunojoabierto_es:100%"],
+        "28": ["potenciacionmaestra_es:150", "vida_es:75", "revigorizadoimbloqueable2_es", "buffeteneltiempo2_es", "indomable_es"],
+        "29": ["potenciacionmaestra_es:150", "vida_es:75", "espaciopersonalplacebo_es","modificacionpem_es"],
+        "30": ["potenciacionmaestra_es:150", "vida_es:75", "armaduradiagonal2_es", "defensaestatica2_es", "altovoltajemejorado_es"],
+        "31": ["potenciacionmaestra_es:150", "vida_es:75", "acumulacionestableimbloqueable_es", "deteriorodearmadura_es::250"],
+        "32": ["potenciacionmaestra_es:150", "vida_es:75", "flujoyreflujointerceptacion_es", "cargapoderosa1_es"],
+        "33": ["potenciacionmaestra_es:150", "vida_es:75", "acumulaciondeeficienciaimbloqueable_es", "pasivamenteespecial2_es:20", "vidadura3_es"],
+        "34": ["potenciacionmaestra_es:150", "vida_es:75", "segundoalientoimbloqueable3_es", "pronunciarse2_es"],
+        "35": ["potenciacionmaestra_es:150", "vida_es:75", "eldinerollamaaldineropoder3_es", "oportunista2_es", "proteccionmistica_es:95"],
+        "36": ["potenciacionmaestra_es:150", "vida_es:75", "cambiodepeligroaltovoltajehemorragia_es", "nerviosdeacero2_es"],
+        "37": ["potenciacionmaestra_es:100", "vida_es:75", "contragolpefuria_es", "armaduraespaciada2_es", "masoquismoeneltiempo1_es"],
+        "38": ["potenciacionmaestra_es:100", "vida_es:75", "flujoyreflujoderribo_es","masdelomismo2_es", "agresioneficiencia_es"],
+        "39": ["potenciacionmaestra_es:100", "vida_es:75", "cambiodepeligroincineracionenvenenamiento_es", "sangreenelagua2_es:150", "eficaciadepoder_es"],
+        "40": ["potenciacionmaestra_es:150", "vida_es:75", "armaduradiagonal2_es", "buffeteneltiempo2_es",  "asaltovigoroso_es"],
+        "41": ["potenciacionmaestra_es:150", "vida_es:75", "acumulaciondeeficienciaimbloqueable_es", "aperitivodepoder2_es", "ungolpedemas2_es"],
+        "42": ["potenciacionmaestra_es:150", "vida_es:75", "cambiodepeligroaltovoltajehemorragia_es", "conflictivo2_es", "deteriorodearmadura_es::250"],
+        "43": ["potenciacionmaestra_es:150", "vida_es:75", "contragolpepenetraciondebloqueo_es", "durabilidad_es:20", "novolveratras2_es", "armaduradiagonal2_es"],
+        "44": ["potenciacionmaestra_es:150", "vida_es:75", "flujoyreflujointerceptacion_es", "cargapoderosa1_es", "deteriorodearmadura_es::250"],
+        "45": ["potenciacionmaestra_es:150", "vida_es:75", "eldinerollamaaldineropoder3_es", "aspectodeevolucion_es", "espaciopersonalfuria_es", "proteccionmistica_es:80"],
+        "46": ["potenciacionmaestra_es:150", "vida_es:300", "proezadevigilancia1_es", "eficienciadepoder_es", "desaparecidoencombate2_es", "politicadedevolucion1_es"],
+        "47": ["potenciacionmaestra_es:150", "vida_es:300", "cambiodepeligroincineracionenvenenamiento_es", "inmuneaaturdimiento_es"],
+        "48": ["potenciacionmaestra_es:150", "vida_es:300", "hiperrecuperacion_es:150", "salvaguarda_es:1", "indomable_es","asaltovigoroso_es"],
+        "49": ["potenciacionmaestra_es:150", "vida_es:300", "dejavu_eficiencia_es", "puncion_eficiencia_es:40", "conflictivo2_es"],
+        "50": ["potenciacionmaestra_es:200", "vida_es:700", "inmuneaaturdimiento_es", "golpecertero_es", "adaptabilidad_es"]
+        },
+
+	"links": {
+    },
+
+    "portal_links": {
+		"b_1_1": ["b_1","b_2"],
+		"b_1_2": ["b_1","b_7"],
+		"b_1_3": ["b_1","b_12"],
+		"b_2_1": ["b_6","b_17"],
+		"b_2_2": ["b_11","b_17"],
+		"b_2_3": ["b_16","b_17"],
+		"b_3_1": ["b_18","b_19"],
+		"b_3_2": ["b_18","b_24"],
+		"b_3_3": ["b_18","b_29"],
+		"b_4_1": ["b_23","b_34"],
+		"b_4_2": ["b_28","b_34"],
+		"b_4_3": ["b_33","b_34"],
+		"b_5_1": ["b_36","b_37"],
+		"b_5_2": ["b_39","b_40"],
+		"b_5_3": ["b_42","b_43"]
+    },
+
+
+	"prefered_champs": {
+	}
+}

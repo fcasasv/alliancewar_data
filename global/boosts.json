@@ -1639,6 +1639,11 @@
     "title": "Inmune a aturdimiento",
     "text": "El Defensor es inmune a los efectos de Aturdimiento."
   },
+  "combodevastador_es": {
+    "img": "strike",
+    "title": "Combo Devastador",
+    "text": "Tras infligir un combo de 15 golpes o más, los ataques ignoran la armadura y el oponente no puede eludirlos."
+  },
   "golpecertero_es": {
     "img": "strike",
     "title": "Golpe Certero",
@@ -1829,10 +1834,20 @@
     "title": "Vulnerable a aturdimiento",
     "text": "Mientras el Defensor sufre Aturdimiento, la Fuerza de Ataque del Atacante aumenta en un {d0}% al acertar un ataque."
   },
+  "revigorizadofuria1_es": {
+    "img": "attack",
+    "title": "Revigorizado (Furia) - 2",
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, si el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Furia que otorga un +100% de Ataque durante 5 segundos."
+  },
   "revigorizadofuria2_es": {
     "img": "attack",
     "title": "Revigorizado (Furia) - 2",
     "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, si el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Furia que otorga un +100% de Ataque durante 7 segundos."
+  },
+  "revigorizadoimbloqueable1_es": {
+    "img": "attack",
+    "title": "Revigorizado (Imbloqueable) - 1",
+    "text": "Cada vez que un Efecto Pasivo o Mejora de Regeneración se activa, si el Defensor no sufre Anticuraciones, este obtiene una Carga de Impetu latente. Una vez que el Defensor alcanza 10 Cargas de Impetu, estas se consumen y el Defensor obtiene un Efecto Pasivo de Imbloqueable durante 5 segundos."
   },
   "revigorizadoimbloqueable2_es": {
     "img": "attack",
@@ -1959,6 +1974,11 @@
     "title": "Luchador de apoyo",
     "text": "Mientras este Defensor está acorralado contra la pared, obtiene una Furia Pasiva permanente y Armadura Pasiva cada 3 segundos. Cada Furia aumenta su Ataque de base en un 10%, hasta un 300% y cada Armadura aumenta su Fuerza de Armadura en 100 hasta 1000."
   },
+  "muertodemiedo1_es": {
+    "img": "fist",
+    "title": "Muerto de Miedo - 1",
+    "text": "Cada 10 segundos, el Atacante sufre Enraizamiento durante 4 segundos. Los Personajes Enraizados no se pueden mover, pero pueden atacar, bloquear y esquivar. Activar un Superataque elimina el Enraizamiento y evita que se aplique. El cronómetro se pausa mientras el Atacante está Enraizado y se reinicia si el Atacante acierta un golpe."
+  },
   "muertodemiedo2_es": {
     "img": "fist",
     "title": "Muerto de Miedo - 2",
@@ -1994,6 +2014,11 @@
     "title": "Alto voltaje mejorado",
     "text": "Las habilidades de alto voltaje son un 40% más efectivas."
   },
+  "goteoplacebo1_es": {
+    "img": "strike",
+    "title": "Drip Feed - Placebo 1",
+    "text": "El Atacante gana una ventaja de Placebo de 6 segundos de duración cada 15 segundos. Cuando el Defensor es infligido con una Desventaja No Dañina excepto Aturdido, reinicia el Temporizador."
+  },
   "goteoplacebo_es": {
     "img": "strike",
     "title": "Drip Feed - Placebo 2",
@@ -2004,10 +2029,20 @@
     "title": "Drip Feed - Placebo 3",
     "text": "El Atacante gana una ventaja de Placebo de 6 segundos de duración cada 5 segundos. Cuando el Defensor es infligido con una Desventaja No Dañina excepto Aturdido, reinicia el Temporizador."
   },
+  "fragmentacion1_es": {
+    "img": "strike",
+    "title": "Fragmentación 1",
+    "text": "Cada vez que se Anula una ventaja del Atacante recibe una rafaga de daño directo igual al 20% del ataque modificado del defensor. Las desventajas de Demolición Anulan las ventajas de Armadura."
+  },
   "fragmentacion2_es": {
     "img": "strike",
     "title": "Fragmentación 2",
     "text": "Cada vez que se Anula una ventaja del Atacante recibe una rafaga de daño directo igual al 30% del ataque modificado del defensor. Las desventajas de Demolición Anulan las ventajas de Armadura."
+  },
+  "combatedejavuplacebo1_es": {
+    "img": "strike",
+    "title": "Combat Dejá vu - Placebo 1",
+    "text": "Cuando el Atacante acierta el mismo tipo de Ataque Básico dos veces seguidas, adquiere una Ventaja de Placebo con 12 segundos de duración."
   },
   "combatedejavuplacebo_es": {
     "img": "strike",
@@ -2049,6 +2084,11 @@
     "title": "Subterfugio - Derribo",
     "text": "Cada vez que el Defensor es derribado, el Atacante obtiene una Mejora de Furia, que aumenta la Fuerza de Ataque en un 5% durante 10 segundos."
   },
+  "segundoalientoreflejo1_es": {
+    "img": "response",
+    "title": "Segundo Aliento (Reflejo del Daño) - 1",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene un Efecto Pasivo de Reflejo del Daño durante 4 segundos, que causa de vuelta un 25% del daño infligido por el Atacante."
+  },
   "segundoalientoreflejo2_es": {
     "img": "response",
     "title": "Segundo Aliento (Reflejo del Daño) - 2",
@@ -2068,6 +2108,11 @@
     "img": "armorbreak",
     "title": "Jadeo - 2",
     "text": "Cada vez que el Defensor es derribado, el Defensor sufre una Desventaja de Demolición, que reduce su Fuerza de Armadura en 50 durante 5 segundos."
+  },
+  "segundoalientoimbloqueable1_es": {
+    "img": "powertrend",
+    "title": "Segundo Aliento (Imbloqueable) - 1",
+    "text": "Siempre que el Defensor Purifica o Depura una Desventaja, obtiene una Carga de Imbloqueable. Si el Defensor alcanza 5 Cargas de Imbloqueable, obtiene un Efecto Pasivo de Imbloqueable durante 4 segundos."
   },
   "segundoalientoimbloqueable2_es": {
     "img": "powertrend",
@@ -2134,9 +2179,34 @@
     "title": "Energía de Derribo -1",
     "text": "Cuando el Defensor sufre derribo, su Resistencia Energética aumenta en un 50% durante 15 segundos."
   },
+  "poderinevitableeficaciadepoder1_es": {
+    "img": "powertrend",
+    "title": "Poder Inevitable (Eficacia de Poder) - 1",
+    "text": "Por cada Mejora que haya obtenido el Defensor, recibe una Carga de Poder. Tras alcanzar 8 cargas, obtiene un Efecto Pasivo de Eficacia de Poder durante 7 segundos. Durante este tiempo, todas las Mejoras en el Defensor no se pueden Anular ni Entorpecer."
+  },
   "poderinevitableeficaciadepoder2_es": {
     "img": "powertrend",
-    "title": "Poder Inevitable (Eficacia de Poder)",
+    "title": "Poder Inevitable (Eficacia de Poder) - 2",
     "text": "Por cada Mejora que haya obtenido el Defensor, recibe una Carga de Poder. Tras alcanzar 7 cargas, obtiene un Efecto Pasivo de Eficacia de Poder durante 9 segundos. Durante este tiempo, todas las Mejoras en el Defensor no se pueden Anular ni Entorpecer."
+  },
+  "boladenievefuria1_es": {
+    "img": "attack",
+    "title": "Bola de Nieve (Furia) - 1",
+    "text": "Si el Defensor está bajo los efectos de 5 o más Mejoras, obtiene un Efecto Pasivo de Furia que otorga un 15% de fuerza de ataque cada 2 segundos. Cada Efecto Pasivo de Furia dura 9 segundos. El Defensor seguirá obteniendo estos efectos pasivos hasta que todas las Mejoras expiren o se Anulen."
+  },
+  "resistiresinutil1_es": {
+    "img": "power",
+    "title": "Resistir es Inútil - 1",
+    "text": "Siempre que el Atacante vaya a recibir un efecto al que es inmune, el Defensor obtiene una Mejora de Acopio de Poder no acumulativa que otorga un 15% de Poder Máx. en 12 segundos."
+  },
+  "reactorcinetico_es": {
+    "img": "power",
+    "title": "Reactor Cinético",
+    "text": "El Defensor genera Poder al golpear el Bloqueo del Atacante."
+  },
+  "comboduradero_es": {
+    "img": "clock",
+    "title": "Combo Duradero",
+    "text": "El medidor de combo no se reinicia cuando se recibe un golpe."
   }
 }
