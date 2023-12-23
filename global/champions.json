@@ -249,5 +249,19 @@
 	"shocker": ["Shocker", "te"],
 	"sandman": ["Sandman", "sc"],
 	"moondragon": ["Moondragon", "ta"],
-	"adamwarlock": ["Adam Warlock", "co"]
+	"adamwarlock": ["Adam Warlock", "co"],
+	"danimoonstar": ["Dani Moonstar", "mu"],
+	"ladydeathstrike": ["Lady Deathstrike", "te"],
+	"silk": ["Silk", "sc"],
+	"kindred": ["Kindred", "my"],
+	"photon": ["Photon", "sc"],
+	"vox": ["Vox", "co"],
+	"gladiator": ["Gladiator", "co"],
+	"morbius": ["Morbius", "sc"],
+	"werewolf": ["Hombre Lobo", "my"],
+	"maestro": ["Maestro", "co"],
+	"cheeilth": ["Chee'ilth", "ta"],
+	"kushala": ["Kushala", "my"],
+	"onslaught": ["Onslaught", "mu"],
+	"guillotine_nameless": ["Guillotine (Deathless)", "my"]
 }
